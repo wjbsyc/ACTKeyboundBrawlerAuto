@@ -1,0 +1,8357 @@
+{
+  "version": 1,
+  "note": 1193,
+  "words": [
+    {
+      "table": "0x004C4B4A",
+      "index": "0x00",
+      "text": "神罗",
+      "pinyin": "ShenLuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x01",
+      "text": "蒂法",
+      "pinyin": "DiFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x02",
+      "text": "克劳德",
+      "pinyin": "KeLaoDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x03",
+      "text": "巴雷特",
+      "pinyin": "BaLeiTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x04",
+      "text": "杰西",
+      "pinyin": "JieXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x05",
+      "text": "雪崩",
+      "pinyin": "XueBeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x06",
+      "text": "猎敌者",
+      "pinyin": "LieDiZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x07",
+      "text": "海德格",
+      "pinyin": "HaiDeGe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x08",
+      "text": "第捌区",
+      "pinyin": "DiBaQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x09",
+      "text": "艾丝特",
+      "pinyin": "AiSiTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x0A",
+      "text": "乔",
+      "pinyin": "Qiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x0B",
+      "text": "蜜娜",
+      "pinyin": "MiNa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x0C",
+      "text": "玛琳",
+      "pinyin": "MaLin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x0D",
+      "text": "爱丽丝",
+      "pinyin": "AiLiSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x0E",
+      "text": "扎克斯",
+      "pinyin": "ZhaKeSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x0F",
+      "text": "菲拉",
+      "pinyin": "FeiLa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x10",
+      "text": "第壹区",
+      "pinyin": "DiYiQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x11",
+      "text": "玛蕾",
+      "pinyin": "MaLei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x12",
+      "text": "怀默",
+      "pinyin": "HuaiMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x13",
+      "text": "乔尼",
+      "pinyin": "QiaoNi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x14",
+      "text": "逗你的",
+      "pinyin": "DouNiDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x15",
+      "text": "罗榭",
+      "pinyin": "LuoXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x16",
+      "text": "五台",
+      "pinyin": "WuTai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x17",
+      "text": "雷诺",
+      "pinyin": "LeiNuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x18",
+      "text": "麦子",
+      "pinyin": "MaiZi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x19",
+      "text": "路德",
+      "pinyin": "LuDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x1A",
+      "text": "塔克斯",
+      "pinyin": "TaKeSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x1B",
+      "text": "艾米娜",
+      "pinyin": "AiMiNa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x1C",
+      "text": "再结合",
+      "pinyin": "ZaiJieHe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x1D",
+      "text": "打扰了",
+      "pinyin": "DaRaoLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x1E",
+      "text": "阿尼安",
+      "pinyin": "ANiAn",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x1F",
+      "text": "贝格",
+      "pinyin": "BeiGe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x20",
+      "text": "巴德",
+      "pinyin": "BaDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x21",
+      "text": "索奇",
+      "pinyin": "SuoQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x22",
+      "text": "柯奇",
+      "pinyin": "KeQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x23",
+      "text": "雷兹利",
+      "pinyin": "LeiZiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x24",
+      "text": "普裘",
+      "pinyin": "PuQiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x25",
+      "text": "帕尔默",
+      "pinyin": "PaErMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x26",
+      "text": "地狱屋",
+      "pinyin": "DiYuWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x27",
+      "text": "第陆区",
+      "pinyin": "DiLiuQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x28",
+      "text": "阿勃祖",
+      "pinyin": "ABoZu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x29",
+      "text": "鱼人",
+      "pinyin": "YuRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x2A",
+      "text": "里维",
+      "pinyin": "LiWei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x2B",
+      "text": "埃力格",
+      "pinyin": "AiLiGe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x2C",
+      "text": "曾",
+      "pinyin": "Zeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x2D",
+      "text": "强盗",
+      "pinyin": "QiangDao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x2E",
+      "text": "琪里耶",
+      "pinyin": "QiLiYe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x2F",
+      "text": "哈特",
+      "pinyin": "HaTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x30",
+      "text": "赛特拉",
+      "pinyin": "SaiTeLa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x31",
+      "text": "杰诺瓦",
+      "pinyin": "JieNuoWa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x32",
+      "text": "宝条",
+      "pinyin": "BaoTiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x33",
+      "text": "剑舞",
+      "pinyin": "JianWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x34",
+      "text": "路法斯",
+      "pinyin": "LuFaSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x35",
+      "text": "赞甘",
+      "pinyin": "ZanGan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x36",
+      "text": "娜瑶",
+      "pinyin": "NaYao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x37",
+      "text": "尼禄",
+      "pinyin": "NiLu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x38",
+      "text": "拉姆",
+      "pinyin": "LaMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x39",
+      "text": "分会",
+      "pinyin": "FenHui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x3A",
+      "text": "莫古力",
+      "pinyin": "MoGuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x3B",
+      "text": "吉杰",
+      "pinyin": "JiJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x3C",
+      "text": "魏斯",
+      "pinyin": "WeiSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x3D",
+      "text": "五字辈",
+      "pinyin": "WuZiBei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x3E",
+      "text": "龟大叔",
+      "pinyin": "GuiDaShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x3F",
+      "text": "巨蜈蚣",
+      "pinyin": "JuWuGong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x40",
+      "text": "波尔可",
+      "pinyin": "BoErKe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x41",
+      "text": "梅菲",
+      "pinyin": "MeiFei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x42",
+      "text": "尤菲",
+      "pinyin": "YouFei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x43",
+      "text": "索侬",
+      "pinyin": "SuoNong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x44",
+      "text": "复活",
+      "pinyin": "FuHuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x45",
+      "text": "祈祷",
+      "pinyin": "QiDao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x46",
+      "text": "希瓦",
+      "pinyin": "XiWa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x47",
+      "text": "自爆",
+      "pinyin": "ZiBao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x48",
+      "text": "解毒",
+      "pinyin": "JieDu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x49",
+      "text": "催眠",
+      "pinyin": "CuiMian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x4A",
+      "text": "沉默",
+      "pinyin": "ChenMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x4B",
+      "text": "狂暴",
+      "pinyin": "KuangBao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x4C",
+      "text": "停止",
+      "pinyin": "TingZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x4D",
+      "text": "驱魔",
+      "pinyin": "QuMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x4E",
+      "text": "解毒药",
+      "pinyin": "JieDuYao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x4F",
+      "text": "伊弗利特",
+      "pinyin": "YiFuLiTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x50",
+      "text": "巴哈姆特",
+      "pinyin": "BaHaMuTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x51",
+      "text": "怪鼠",
+      "pinyin": "GuaiShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x52",
+      "text": "魅影",
+      "pinyin": "MeiYing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x53",
+      "text": "查德利",
+      "pinyin": "ChaDeLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x54",
+      "text": "臭气",
+      "pinyin": "ChouQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x55",
+      "text": "五轮棍",
+      "pinyin": "WuLunGun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x56",
+      "text": "歪歪",
+      "pinyin": "WaiWai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x57",
+      "text": "提神剂",
+      "pinyin": "TiShenJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x58",
+      "text": "第柒区",
+      "pinyin": "DiQiQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x59",
+      "text": "混战",
+      "pinyin": "HunZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x5A",
+      "text": "翼蜥",
+      "pinyin": "YiXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x5B",
+      "text": "姆姆",
+      "pinyin": "MuMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x5C",
+      "text": "蹦扎",
+      "pinyin": "BengZha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x5D",
+      "text": "剧毒鼠",
+      "pinyin": "JuDuShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x5E",
+      "text": "砂鱼人",
+      "pinyin": "ShaYuRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x5F",
+      "text": "海龙",
+      "pinyin": "HaiLong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x60",
+      "text": "狮鹫",
+      "pinyin": "ShiJiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x61",
+      "text": "食人魔",
+      "pinyin": "ShiRenMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x62",
+      "text": "海魔鱼",
+      "pinyin": "HaiMoYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x63",
+      "text": "毒帽妖",
+      "pinyin": "DuMaoYao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x64",
+      "text": "机甲龟",
+      "pinyin": "JiJiaGui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x65",
+      "text": "奇美拉",
+      "pinyin": "QiMeiLa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x66",
+      "text": "触返蛙",
+      "pinyin": "ChuFanWa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x67",
+      "text": "巨蛙",
+      "pinyin": "JuWa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x68",
+      "text": "阿拉克兰",
+      "pinyin": "ALaKeLan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x69",
+      "text": "瓦隆",
+      "pinyin": "WaLong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x6A",
+      "text": "安托士",
+      "pinyin": "AnTuoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x6B",
+      "text": "探测眼",
+      "pinyin": "TanCeYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x6C",
+      "text": "恶灵",
+      "pinyin": "ELing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x6D",
+      "text": "伊莉娜",
+      "pinyin": "YiLiNa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x6E",
+      "text": "戴因",
+      "pinyin": "DaiYin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x6F",
+      "text": "红龙",
+      "pinyin": "HongLong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x70",
+      "text": "恶魔门",
+      "pinyin": "EMoMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x71",
+      "text": "泰坦",
+      "pinyin": "TaiTan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x72",
+      "text": "奥丁",
+      "pinyin": "AoDing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x73",
+      "text": "彗星",
+      "pinyin": "HuiXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x74",
+      "text": "勇气",
+      "pinyin": "YongQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x75",
+      "text": "信心",
+      "pinyin": "XinXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x76",
+      "text": "阻勇气",
+      "pinyin": "ZuYongQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x77",
+      "text": "阻信心",
+      "pinyin": "ZuXinXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x78",
+      "text": "重力",
+      "pinyin": "ZhongLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x79",
+      "text": "魔人棍",
+      "pinyin": "MoRenGun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x7A",
+      "text": "突击炮",
+      "pinyin": "TuJiPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x7B",
+      "text": "巨炮",
+      "pinyin": "JuPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x7C",
+      "text": "破流者",
+      "pinyin": "PoLiuZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x7D",
+      "text": "龙爪",
+      "pinyin": "LongZhao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x7E",
+      "text": "耳环",
+      "pinyin": "ErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x7F",
+      "text": "头巾",
+      "pinyin": "TouJin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x80",
+      "text": "头冠",
+      "pinyin": "TouGuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x81",
+      "text": "慧眼",
+      "pinyin": "HuiYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x82",
+      "text": "塔罗牌",
+      "pinyin": "TaLuoPai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x83",
+      "text": "缎带",
+      "pinyin": "DuanDai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x84",
+      "text": "祈安珠",
+      "pinyin": "QiAnZhu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x85",
+      "text": "义族护符",
+      "pinyin": "YiZuHuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x86",
+      "text": "金针",
+      "pinyin": "JinZhen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x87",
+      "text": "坐垫",
+      "pinyin": "ZuoDian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x88",
+      "text": "草地钛",
+      "pinyin": "CaoDiTai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x89",
+      "text": "木材",
+      "pinyin": "MuCai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x8A",
+      "text": "岩槭木",
+      "pinyin": "YanQiMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x8B",
+      "text": "猢狲木",
+      "pinyin": "HuSunMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x8C",
+      "text": "梣木",
+      "pinyin": "ChenMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x8D",
+      "text": "恢复",
+      "pinyin": "HuiFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x8E",
+      "text": "时间",
+      "pinyin": "ShiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x8F",
+      "text": "消灭",
+      "pinyin": "XiaoMie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x90",
+      "text": "治疗",
+      "pinyin": "ZhiLiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x91",
+      "text": "中毒",
+      "pinyin": "ZhongDu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x92",
+      "text": "属性",
+      "pinyin": "ShuXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x93",
+      "text": "计步",
+      "pinyin": "JiBu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x94",
+      "text": "挑衅",
+      "pinyin": "TiaoXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x95",
+      "text": "幸运",
+      "pinyin": "XingYun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x96",
+      "text": "变化",
+      "pinyin": "BianHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x97",
+      "text": "跳跃",
+      "pinyin": "TiaoYue",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x98",
+      "text": "暗黑",
+      "pinyin": "AnHei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x99",
+      "text": "扔钱",
+      "pinyin": "RengQian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x9A",
+      "text": "狐火",
+      "pinyin": "HuHuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x9B",
+      "text": "突击喇叭",
+      "pinyin": "TuJiLaBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x9C",
+      "text": "围剿",
+      "pinyin": "WeiJiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x9D",
+      "text": "狱门",
+      "pinyin": "YuMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x9E",
+      "text": "残心",
+      "pinyin": "CanXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0x9F",
+      "text": "忍术",
+      "pinyin": "RenShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA0",
+      "text": "旋风",
+      "pinyin": "XuanFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA1",
+      "text": "血祭",
+      "pinyin": "XueJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA2",
+      "text": "骰子",
+      "pinyin": "TouZi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA3",
+      "text": "打气鼓舞",
+      "pinyin": "DaQiGuWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA4",
+      "text": "蓄力",
+      "pinyin": "XuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA5",
+      "text": "绝空",
+      "pinyin": "JueKong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA6",
+      "text": "卡姆",
+      "pinyin": "KaMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA7",
+      "text": "布洛德",
+      "pinyin": "BuLuoDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA8",
+      "text": "格林",
+      "pinyin": "GeLin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xA9",
+      "text": "哔可",
+      "pinyin": "BiKe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xAA",
+      "text": "可琳",
+      "pinyin": "KeLin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xAB",
+      "text": "罗德娜",
+      "pinyin": "LuoDeNa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xAC",
+      "text": "普莉希拉",
+      "pinyin": "PuLiXiLa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xAD",
+      "text": "艾米利欧",
+      "pinyin": "AiMiLiOu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xAE",
+      "text": "格伦",
+      "pinyin": "GeLun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xAF",
+      "text": "季托夫",
+      "pinyin": "JiTuoFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB0",
+      "text": "海温德",
+      "pinyin": "HaiWenDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB1",
+      "text": "蕾吉",
+      "pinyin": "LeiJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB2",
+      "text": "法兹",
+      "pinyin": "FaZi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB3",
+      "text": "怀兹",
+      "pinyin": "HuaiZi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB4",
+      "text": "卡波诺",
+      "pinyin": "KaBoNuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB5",
+      "text": "纳纳奇",
+      "pinyin": "NaNaQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB6",
+      "text": "芙兰",
+      "pinyin": "FuLan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB7",
+      "text": "诺艾米",
+      "pinyin": "NuoAiMi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB8",
+      "text": "约达",
+      "pinyin": "YueDa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xB9",
+      "text": "刺猬头",
+      "pinyin": "CiWeiTou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xBA",
+      "text": "爱之卡",
+      "pinyin": "AiZhiKa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xBB",
+      "text": "克劳啾",
+      "pinyin": "KeLaoJiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xBC",
+      "text": "迪欧",
+      "pinyin": "DiOu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xBD",
+      "text": "碟下区",
+      "pinyin": "DieXiaQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xBE",
+      "text": "越野车",
+      "pinyin": "YueYeChe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xBF",
+      "text": "西斯妮",
+      "pinyin": "XiSiNi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC0",
+      "text": "格尔尼卡",
+      "pinyin": "GeErNiKa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC1",
+      "text": "芳格",
+      "pinyin": "FangGe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC2",
+      "text": "小野马",
+      "pinyin": "XiaoYeMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC3",
+      "text": "义族",
+      "pinyin": "YiZu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC4",
+      "text": "文森特",
+      "pinyin": "WenSenTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC5",
+      "text": "村崎",
+      "pinyin": "CunQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC6",
+      "text": "忍者",
+      "pinyin": "RenZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC7",
+      "text": "楔石",
+      "pinyin": "XieShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC8",
+      "text": "露莎",
+      "pinyin": "LuSha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xC9",
+      "text": "小丑",
+      "pinyin": "XiaoChou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xCA",
+      "text": "陨石",
+      "pinyin": "YunShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xCB",
+      "text": "弗雷沙",
+      "pinyin": "FuLeiSha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xCC",
+      "text": "呵嘻，呵嘻！",
+      "pinyin": "HeXiHeXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xCD",
+      "text": "遵命！",
+      "pinyin": "ZunMing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xCE",
+      "text": "华勒斯",
+      "pinyin": "HuaLeSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xCF",
+      "text": "卖花女",
+      "pinyin": "MaiHuaNü",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xD0",
+      "text": "菲尔",
+      "pinyin": "FeiEr",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xD1",
+      "text": "杜耶斯提",
+      "pinyin": "DuYeSiTi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4A",
+      "index": "0xD2",
+      "text": "如月",
+      "pinyin": "RuYue",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x00",
+      "text": "神罗战士",
+      "pinyin": "ShenLuoZhanShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x01",
+      "text": "星球的哀号",
+      "pinyin": "XingQiuDeAiHao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x02",
+      "text": "我没兴趣",
+      "pinyin": "WoMeiXingQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x03",
+      "text": "神罗总裁",
+      "pinyin": "ShenLuoZongCai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x04",
+      "text": "胖莫古力",
+      "pinyin": "PangMoGuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x05",
+      "text": "宇宙骑士团",
+      "pinyin": "YuZhouQiShiTuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x06",
+      "text": "孤狼盖斯",
+      "pinyin": "GuLangGaiSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x07",
+      "text": "葛斯老弟",
+      "pinyin": "GeSiLaoDi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x08",
+      "text": "陆行鸟房",
+      "pinyin": "LuXingNiaoFang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x09",
+      "text": "艾蕾诺雅",
+      "pinyin": "AiLeiNuoYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x0A",
+      "text": "你真直接！",
+      "pinyin": "NiZhenZhiJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x0B",
+      "text": "萨菲罗斯",
+      "pinyin": "SaFeiLuoSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x0C",
+      "text": "神罗兵",
+      "pinyin": "ShenLuoBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x0D",
+      "text": "尼福尔海姆",
+      "pinyin": "NiFuErHaiMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x0E",
+      "text": "星球的生命",
+      "pinyin": "XingQiuDeShengMing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x0F",
+      "text": "军事猎犬",
+      "pinyin": "JunShiLieQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x10",
+      "text": "收下这朵花吧",
+      "pinyin": "ShouXiaZheDuoHuaBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x11",
+      "text": "第柒区贫民窟",
+      "pinyin": "DiQiQuPinMinKu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x12",
+      "text": "不会屈服于胁迫",
+      "pinyin": "BuHuiQuFuYuXiePo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x13",
+      "text": "第捌区车站",
+      "pinyin": "DiBaQuCheZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x14",
+      "text": "我会扛起一切！",
+      "pinyin": "WoHuiKangQiYiQie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x15",
+      "text": "警备兵",
+      "pinyin": "JingBeiBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x16",
+      "text": "万能帮手",
+      "pinyin": "WanNengBangShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x17",
+      "text": "陷入了困境",
+      "pinyin": "XianRuLeKunJing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x18",
+      "text": "瓦砾大街",
+      "pinyin": "WaLiDaJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x19",
+      "text": "第七天堂",
+      "pinyin": "DiQiTianTang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A",
+      "text": "星殒峡谷",
+      "pinyin": "XingYunXiaGu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B",
+      "text": "暴力是不对的！",
+      "pinyin": "BaoLiShiBuDuiDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C",
+      "text": "激光扫射机",
+      "pinyin": "JiGuangSaoSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D",
+      "text": "暴风破坏者",
+      "pinyin": "BaoFengPoHuaiZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E",
+      "text": "克劳蒂亚·斯特莱夫",
+      "pinyin": "KeLaoDiYaSiTeLaiFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F",
+      "text": "史卡蕾特",
+      "pinyin": "ShiKaLeiTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x20",
+      "text": "绿叶之家",
+      "pinyin": "LüYeZhiJia",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x21",
+      "text": "第伍区贫民窟",
+      "pinyin": "DiWuQuPinMinKu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x22",
+      "text": "赭红猎犬",
+      "pinyin": "ZheHongLieQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x23",
+      "text": "陆行鸟",
+      "pinyin": "LuXingNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x24",
+      "text": "下流人渣",
+      "pinyin": "XiaLiuRenZha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x25",
+      "text": "就捏烂哦",
+      "pinyin": "JiuNieLanO",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x26",
+      "text": "巨刀机械",
+      "pinyin": "JuDaoJiXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x27",
+      "text": "蜜蜂之馆",
+      "pinyin": "MiFengZhiGuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x28",
+      "text": "干脆扭断好了",
+      "pinyin": "GanCuiNiuDuanHaoLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x29",
+      "text": "绿意公园",
+      "pinyin": "LüYiGongYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A",
+      "text": "克里普歇",
+      "pinyin": "KeLiPuXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B",
+      "text": "闪光鬼魂",
+      "pinyin": "ShanGuangGuiHun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C",
+      "text": "列车墓地",
+      "pinyin": "LieCheMuDi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D",
+      "text": "演技真是差劲",
+      "pinyin": "YanJiZhenShiChaJin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E",
+      "text": "幼年阿勃祖",
+      "pinyin": "YouNianABoZu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F",
+      "text": "古代种",
+      "pinyin": "GuDaiZhong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x30",
+      "text": "神罗大厦",
+      "pinyin": "ShenLuoDaSha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x31",
+      "text": "应许之地",
+      "pinyin": "YingXuZhiDi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x32",
+      "text": "科学部门",
+      "pinyin": "KeXueBuMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x33",
+      "text": "多米诺市长",
+      "pinyin": "DuoMiNuoShiZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x34",
+      "text": "贫民窟的卖花女",
+      "pinyin": "PinMinKuDeMaiHuaNü",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x35",
+      "text": "都市开发部门",
+      "pinyin": "DuShiKaiFaBuMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x36",
+      "text": "命运守望者",
+      "pinyin": "MingYunShouWangZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x37",
+      "text": "兵器开发部门",
+      "pinyin": "BingQiKaiFaBuMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x38",
+      "text": "宇宙开发部门",
+      "pinyin": "YuZhouKaiFaBuMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x39",
+      "text": "星球的未来",
+      "pinyin": "XingQiuDeWeiLai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x3A",
+      "text": "拥抱梦想",
+      "pinyin": "YongBaoMengXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x3B",
+      "text": "快过来，克劳德",
+      "pinyin": "KuaiGuoLaiKeLaoDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x3C",
+      "text": "命运的分歧点",
+      "pinyin": "MingYunDeFenQiDian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x3D",
+      "text": "我克制不住我自己",
+      "pinyin": "WoKeZhiBuZhuWoZiJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x3E",
+      "text": "高等警备兵",
+      "pinyin": "GaoJiJingBeiBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x3F",
+      "text": "女王蠕蛾",
+      "pinyin": "NüWangRuE",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x40",
+      "text": "不是莫古力",
+      "pinyin": "BuShiMoGuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x41",
+      "text": "大窍豆",
+      "pinyin": "DaQiaoDou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x42",
+      "text": "龟纵乐",
+      "pinyin": "GuiZongLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x43",
+      "text": "绯红梦魇",
+      "pinyin": "FeiHongMengYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x44",
+      "text": "没错，莫古力！",
+      "pinyin": "MeiCuoMoGuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x45",
+      "text": "来自五台的使者",
+      "pinyin": "LaiZiWuTaiDeShiZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x46",
+      "text": "是谁在妨碍我？",
+      "pinyin": "ShiShuiZaiFangAiWo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x47",
+      "text": "擦剑爆燃",
+      "pinyin": "CaJianBaoRan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x48",
+      "text": "混沌星云",
+      "pinyin": "HunDunXingYun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x49",
+      "text": "五台的斗志",
+      "pinyin": "WuTaiDeDouZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x4A",
+      "text": "杰涅涅",
+      "pinyin": "JieNieNie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x4B",
+      "text": "消除护盾",
+      "pinyin": "XiaoChuHuDun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x4C",
+      "text": "无名者",
+      "pinyin": "WuMingZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x4D",
+      "text": "玛姆女士",
+      "pinyin": "MaMuNüShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x4E",
+      "text": "小陆行鸟",
+      "pinyin": "XiaoLuXingNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x4F",
+      "text": "幻象",
+      "pinyin": "HuanXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x50",
+      "text": "猛烈枪击",
+      "pinyin": "MengLieQiangJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x51",
+      "text": "风暴扫击",
+      "pinyin": "FengBaoSaoJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x52",
+      "text": "小型翼蜥",
+      "pinyin": "XiaoXingYiXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x53",
+      "text": "匿名者",
+      "pinyin": "NiMingZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x54",
+      "text": "列伏利恐鸟",
+      "pinyin": "LieFuLiKongNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x55",
+      "text": "凶斩",
+      "pinyin": "XiongZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x56",
+      "text": "陆行鸟·山姆",
+      "pinyin": "LuXingNiaoShanMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x57",
+      "text": "冰晶冻结",
+      "pinyin": "BingJingDongJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x58",
+      "text": "胖陆行鸟",
+      "pinyin": "PangLuXingNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x59",
+      "text": "加快节奏",
+      "pinyin": "JiaKuaiJieZou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x5A",
+      "text": "变异鼠",
+      "pinyin": "BianYiShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x5B",
+      "text": "独眼权杖",
+      "pinyin": "DuYanQuanZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x5C",
+      "text": "公牛马达",
+      "pinyin": "GongNiuMaDa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x5D",
+      "text": "生化鼠",
+      "pinyin": "ShengHuaShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x5E",
+      "text": "防御长杖",
+      "pinyin": "FangYuChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x5F",
+      "text": "治愈微风",
+      "pinyin": "ZhiYuWeiFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x60",
+      "text": "星辰守护",
+      "pinyin": "XingChenShouHu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x61",
+      "text": "秘技解放",
+      "pinyin": "MiJiJieFang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x62",
+      "text": "正拳",
+      "pinyin": "ZhengQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x63",
+      "text": "坚忍不拔",
+      "pinyin": "JianRenBuBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x64",
+      "text": "光之盾",
+      "pinyin": "GuangZhiDun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x65",
+      "text": "爆裂拳",
+      "pinyin": "BaoLieQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x66",
+      "text": "重火力兵",
+      "pinyin": "ZhongHuoLiBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x67",
+      "text": "掷弹兵",
+      "pinyin": "ZhiDanBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x68",
+      "text": "镇压兵",
+      "pinyin": "ZhenYaBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x69",
+      "text": "战斗员",
+      "pinyin": "ZhanDouYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x6A",
+      "text": "怪异虫",
+      "pinyin": "GuaiYiChong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x6B",
+      "text": "兴奋剂",
+      "pinyin": "XingFenJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x6C",
+      "text": "镇静剂",
+      "pinyin": "ZhenJingJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x6D",
+      "text": "万能药",
+      "pinyin": "WanNengYao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x6E",
+      "text": "星命学",
+      "pinyin": "XingMingXue",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x6F",
+      "text": "琪里耶·卡南",
+      "pinyin": "QiLiYeKaNan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x70",
+      "text": "雷兹利·凯尔",
+      "pinyin": "LeiZiLiKaiEr",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x71",
+      "text": "枪榴炸弹",
+      "pinyin": "QiangLiuZhaDan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x72",
+      "text": "大地重击",
+      "pinyin": "DaDiZhongJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x73",
+      "text": "勇猛模式",
+      "pinyin": "YongMengMoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x74",
+      "text": "进攻模式",
+      "pinyin": "JinGongMoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x75",
+      "text": "壹号激光炮",
+      "pinyin": "YiHaoJiGuangPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x76",
+      "text": "瞬移诡锤",
+      "pinyin": "ShunYiGuiChui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x77",
+      "text": "电击扫射机",
+      "pinyin": "DianJiSaoSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x78",
+      "text": "狂怒猎犬",
+      "pinyin": "KuangNuLieQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x79",
+      "text": "棘刺蓝鱼",
+      "pinyin": "JiCiLanYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x7A",
+      "text": "墨绿海马",
+      "pinyin": "MoLüHaiMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x7B",
+      "text": "巨口噬蝎",
+      "pinyin": "JuKouShiXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x7C",
+      "text": "榭札蟹",
+      "pinyin": "XieZhaXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x7D",
+      "text": "窃贼阿勃祖",
+      "pinyin": "QieZeiABoZu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x7E",
+      "text": "穿透狂眼",
+      "pinyin": "ChuanTouKuangYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x7F",
+      "text": "尾针爆怪",
+      "pinyin": "WeiZhenBaoGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x80",
+      "text": "飞天爆怪",
+      "pinyin": "FeiTianBaoGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x81",
+      "text": "堆尘机",
+      "pinyin": "DuiChenJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x82",
+      "text": "失落之牙",
+      "pinyin": "ShiLuoZhiYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x83",
+      "text": "加特林机枪",
+      "pinyin": "JiaTeLinJiQiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x84",
+      "text": "皮革手套",
+      "pinyin": "PiGeShouTao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x85",
+      "text": "忍者射击",
+      "pinyin": "RenZheSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x86",
+      "text": "斗气幻光球",
+      "pinyin": "DouQiHuanGuangQiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x87",
+      "text": "少女之吻",
+      "pinyin": "ShaoNüZhiWen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x88",
+      "text": "重逢之花",
+      "pinyin": "ChongFengZhiHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x89",
+      "text": "欲望之地",
+      "pinyin": "YuWangZhiDi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x8A",
+      "text": "落日之城",
+      "pinyin": "LuoRiZhiCheng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x8B",
+      "text": "空中兵",
+      "pinyin": "KongZhongBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x8C",
+      "text": "扎克斯·菲尔",
+      "pinyin": "ZhaKeSiFeiEr",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x8D",
+      "text": "尤菲·如月",
+      "pinyin": "YouFeiRuYue",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x8E",
+      "text": "奋力快攻",
+      "pinyin": "FenLiKuaiGong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x8F",
+      "text": "凌空破",
+      "pinyin": "LingKongPo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x90",
+      "text": "海豚疾风",
+      "pinyin": "HaiTunJiFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x91",
+      "text": "高速连斩",
+      "pinyin": "GaoSuLianZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x92",
+      "text": "爆燃射击",
+      "pinyin": "BaoRanSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x93",
+      "text": "原型猎敌者",
+      "pinyin": "YuanXingLieDiZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x94",
+      "text": "电能刽子手",
+      "pinyin": "DianNengGuiZiShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x95",
+      "text": "红蟆刺猬",
+      "pinyin": "HongMaCiWei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x96",
+      "text": "巨无霸噬蝎",
+      "pinyin": "JuWuBaShiXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x97",
+      "text": "镰足蠕蛾",
+      "pinyin": "LianZuRuE",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x98",
+      "text": "废气制造机",
+      "pinyin": "FeiQiZhiZaoJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x99",
+      "text": "毒气制造机",
+      "pinyin": "DuQiZhiZaoJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x9A",
+      "text": "鱼人王子",
+      "pinyin": "YuRenWangZi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x9B",
+      "text": "漆黑猎犬",
+      "pinyin": "QiHeiLieQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x9C",
+      "text": "生命之流",
+      "pinyin": "ShengMingZhiLiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x9D",
+      "text": "魔晶石猎人",
+      "pinyin": "MoJingShiLieRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x9E",
+      "text": "兀鹰堡垒",
+      "pinyin": "WuYingBaoLei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x9F",
+      "text": "神罗公司",
+      "pinyin": "ShenLuoGongSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA0",
+      "text": "掌掴快攻",
+      "pinyin": "ZhangGuoKuaiGong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA1",
+      "text": "贫民窟的太阳",
+      "pinyin": "PinMinKuDeTaiYang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA2",
+      "text": "寻求希望",
+      "pinyin": "XunQiuXiWang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA3",
+      "text": "治安维护部门",
+      "pinyin": "ZhiAnWeiHuBuMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA4",
+      "text": "反击架式",
+      "pinyin": "FanJiJiaShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA5",
+      "text": "驯兽师",
+      "pinyin": "XunShouShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA6",
+      "text": "迷宫之犬",
+      "pinyin": "MiGongZhiQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA7",
+      "text": "玛琳·华勒斯",
+      "pinyin": "MaLinHuaLeSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA8",
+      "text": "阿尼安·库尼昂",
+      "pinyin": "ANiAnKuNiAng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xA9",
+      "text": "里维·杜耶斯提",
+      "pinyin": "LiWeiDuYeSiTi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xAA",
+      "text": "零距离射击",
+      "pinyin": "LingJuLiSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xAB",
+      "text": "圣洁之力",
+      "pinyin": "ShengJieZhiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xAC",
+      "text": "审判光线",
+      "pinyin": "ShenPanGuangXian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xAD",
+      "text": "魔法使徒",
+      "pinyin": "MoFaShiTu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xAE",
+      "text": "导弹发射器",
+      "pinyin": "DaoDanFaSheQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xAF",
+      "text": "榴弹扫射机",
+      "pinyin": "LiuDanSaoSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB0",
+      "text": "红蟆刺猬王",
+      "pinyin": "HongMaCiWeiWang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB1",
+      "text": "黄斑蠕蛾",
+      "pinyin": "HuangBanRuE",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB2",
+      "text": "突变爆怪",
+      "pinyin": "TuBianBaoGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB3",
+      "text": "巨角克里普歇",
+      "pinyin": "JuJiaoKeLiPuXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB4",
+      "text": "雪崩精神",
+      "pinyin": "XueBengJingShen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB5",
+      "text": "神圣魔法阵",
+      "pinyin": "ShenShengMoFaZhen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB6",
+      "text": "部队长贡嘉",
+      "pinyin": "BuDuiZhangGongJia",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB7",
+      "text": "深夜追逐战",
+      "pinyin": "ShenYeZhuiZhuZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB8",
+      "text": "毁灭的世界",
+      "pinyin": "HuiMieDeShiJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xB9",
+      "text": "亡灵的恶作剧",
+      "pinyin": "WangLingDeEZuoJu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xBA",
+      "text": "十字手里剑",
+      "pinyin": "ShiZiShouLiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xBB",
+      "text": "吸收灵气",
+      "pinyin": "XiShouLingQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xBC",
+      "text": "克劳德·斯特莱夫",
+      "pinyin": "KeLaoDeSiTeLaiFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xBD",
+      "text": "巴雷特·华勒斯",
+      "pinyin": "BaLeiTeHuaLeSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xBE",
+      "text": "杰西·莱兹贝利",
+      "pinyin": "JieXiLaiZiBeiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xBF",
+      "text": "查德利报告",
+      "pinyin": "ChaDeLiBaoGao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC0",
+      "text": "异端蕾莉",
+      "pinyin": "YiDuanLeiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC1",
+      "text": "米德加高速公路",
+      "pinyin": "MiDeJiaGaoSuGongLu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC2",
+      "text": "无尽终结",
+      "pinyin": "WuJinZhongJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC3",
+      "text": "巨汉强盗",
+      "pinyin": "JuHanQiangDao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC4",
+      "text": "直纹叶翼蜥",
+      "pinyin": "ZhiWenYeYiXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC5",
+      "text": "百炮战车",
+      "pinyin": "BaiPaoZhanChe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC6",
+      "text": "第捌区的邂逅",
+      "pinyin": "DiBaQuDeXieHou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC7",
+      "text": "激励魔法阵",
+      "pinyin": "JiLiMoFaZhen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC8",
+      "text": "潜入神罗大厦",
+      "pinyin": "QianRuShenLuoDaSha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xC9",
+      "text": "命运的奇点",
+      "pinyin": "MingYunDeQiDian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xCA",
+      "text": "究极魔晶石",
+      "pinyin": "JiuJiMoJingShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xCB",
+      "text": "特殊战斗员",
+      "pinyin": "TeShuZhanDouYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xCC",
+      "text": "强魔战斗员",
+      "pinyin": "QiangMoZhanDouYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xCD",
+      "text": "蒂法·洛克哈特",
+      "pinyin": "DiFaLuoKeHaTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xCE",
+      "text": "五台临时政府",
+      "pinyin": "WuTaiLinShiZhengFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xCF",
+      "text": "特殊空中兵",
+      "pinyin": "TeShuKongZhongBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD0",
+      "text": "爱丽丝·盖恩斯伯勒",
+      "pinyin": "AiLiSiGaiEnSiBoLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD1",
+      "text": "逃离混沌",
+      "pinyin": "TaoLiHunDun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD2",
+      "text": "高级掷弹兵",
+      "pinyin": "GaoJiZhiDanBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD3",
+      "text": "高等镇压兵",
+      "pinyin": "GaoDengZhenYaBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD4",
+      "text": "特殊作战兵",
+      "pinyin": "TeShuZuoZhanBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD5",
+      "text": "隐密步伐者",
+      "pinyin": "YinMiBuFaZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD6",
+      "text": "变异蕾莉",
+      "pinyin": "BianYiLeiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD7",
+      "text": "贪婪者",
+      "pinyin": "TanLanZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD8",
+      "text": "恶魔乘具",
+      "pinyin": "EMoChengJu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xD9",
+      "text": "卡姆之牙",
+      "pinyin": "KaMuZhiYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xDA",
+      "text": "电击之牙",
+      "pinyin": "DianJiZhiYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xDB",
+      "text": "白色之牙",
+      "pinyin": "BaiSeZhiYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xDC",
+      "text": "尼福尔狼",
+      "pinyin": "NiFuErLang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xDD",
+      "text": "振翅翼蜥",
+      "pinyin": "ZhenChiYiXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xDE",
+      "text": "风暴翼蜥",
+      "pinyin": "FengBaoYiXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xDF",
+      "text": "热带棘刺蓝鱼",
+      "pinyin": "ReDaiJiCiLanYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE0",
+      "text": "漂浮豚鱼",
+      "pinyin": "PiaoFuTunYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE1",
+      "text": "普墨绿海马",
+      "pinyin": "PuMoLüHaiMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE2",
+      "text": "稀墨绿海马",
+      "pinyin": "XiMoLüHaiMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE3",
+      "text": "南瓜幽鬼刺猬",
+      "pinyin": "NanGuaYouGuiCiWei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE4",
+      "text": "响板蟹",
+      "pinyin": "XiangBanXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE5",
+      "text": "锤钳陆蟹",
+      "pinyin": "ChuiQianLuXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE6",
+      "text": "鱼人勇士",
+      "pinyin": "YuRenYongShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE7",
+      "text": "列伏利恫鸟",
+      "pinyin": "LieFuLiDongNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE8",
+      "text": "双脑者",
+      "pinyin": "ShuangNaoZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xE9",
+      "text": "龙旋鸟",
+      "pinyin": "LongXuanNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xEA",
+      "text": "音旋鸟",
+      "pinyin": "YinXuanNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xEB",
+      "text": "战机鸟",
+      "pinyin": "ZhanJiNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xEC",
+      "text": "飓风鸟",
+      "pinyin": "JuFengNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xED",
+      "text": "音速鸟",
+      "pinyin": "YinSuNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xEE",
+      "text": "丘比尔狄努斯",
+      "pinyin": "QiuBiErDiNuSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xEF",
+      "text": "快刀处刑者",
+      "pinyin": "KuaiDaoChuXingZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF0",
+      "text": "灌顶象怪",
+      "pinyin": "GuanDingXiangGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF1",
+      "text": "凯泽尔科亚特尔",
+      "pinyin": "KaiZeErKeYaTeEr",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF2",
+      "text": "瑟雅科亚特尔",
+      "pinyin": "SeYaKeYaTeEr",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF3",
+      "text": "鹰头狮",
+      "pinyin": "YingTouShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF4",
+      "text": "尼德霍格",
+      "pinyin": "NiDeHuoGe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF5",
+      "text": "圣柜龙",
+      "pinyin": "ShengGuiLong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF6",
+      "text": "神秘龙",
+      "pinyin": "ShenMiLong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF7",
+      "text": "上古龙",
+      "pinyin": "ShangGuLong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF8",
+      "text": "软糊怪",
+      "pinyin": "RuanHuGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xF9",
+      "text": "暴乱食人魔",
+      "pinyin": "BaoLuanShiRenMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xFA",
+      "text": "赛姆泽雷特巨枭",
+      "pinyin": "SaiMuZeLeiTeJuXiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xFB",
+      "text": "怀兹雷特巨枭",
+      "pinyin": "HuaiZiLeiTeJuXiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xFC",
+      "text": "尖喙兽",
+      "pinyin": "JianHuiShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xFD",
+      "text": "考特尖喙兽",
+      "pinyin": "KaoTeJianHuiShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xFE",
+      "text": "旋索草",
+      "pinyin": "XuanSuoCao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0xFF",
+      "text": "热炎旋索草",
+      "pinyin": "ReYanXuanSuoCao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x100",
+      "text": "精神吸取者",
+      "pinyin": "JingShenXiQuZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x101",
+      "text": "古兰迦兰",
+      "pinyin": "GuLanJiaLan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x102",
+      "text": "小古兰迦兰",
+      "pinyin": "XiaoGuLanJiaLan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x103",
+      "text": "迷你古兰迦兰",
+      "pinyin": "MiNiGuLanJiaLan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x104",
+      "text": "海滩插头怪",
+      "pinyin": "HaiTanChaTouGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x105",
+      "text": "螺贝插头怪",
+      "pinyin": "LuoBeiChaTouGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x106",
+      "text": "魔魂美杜莎",
+      "pinyin": "MoHunMeiDuSha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x107",
+      "text": "针吻鸟",
+      "pinyin": "ZhenWenNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x108",
+      "text": "剑吻鸟",
+      "pinyin": "JianWenNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x109",
+      "text": "冠帽搜索者",
+      "pinyin": "GuanMaoSouSuoZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x10A",
+      "text": "投捕帽妖",
+      "pinyin": "TouBuMaoYao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x10B",
+      "text": "虫型龟",
+      "pinyin": "ChongXingGui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x10C",
+      "text": "蛇鸡兽",
+      "pinyin": "SheJiShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x10D",
+      "text": "杀手烙印",
+      "pinyin": "ShaShouLaoYin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x10E",
+      "text": "双面相",
+      "pinyin": "ShuangMianXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x10F",
+      "text": "沙丘蠕虫",
+      "pinyin": "ShaQiuRuChong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x110",
+      "text": "巨型蠕虫",
+      "pinyin": "JuXingRuChong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x111",
+      "text": "史宾赛飞鱼",
+      "pinyin": "ShiBinSaiFeiYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x112",
+      "text": "银色奇美拉",
+      "pinyin": "YinSeQiMeiLa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x113",
+      "text": "巨角兽",
+      "pinyin": "JuJiaoShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x114",
+      "text": "护角兽",
+      "pinyin": "HuJiaoShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x115",
+      "text": "狂暴巨角兽",
+      "pinyin": "KuangBaoJuJiaoShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x116",
+      "text": "石化蜥龙",
+      "pinyin": "ShiHuaXiLong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x117",
+      "text": "黄褐巨蜥",
+      "pinyin": "HuangHeJuXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x118",
+      "text": "下级蜥蜴",
+      "pinyin": "XiaJiXiYi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x119",
+      "text": "帕亚帕亚蛙",
+      "pinyin": "PaYaPaYaWa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x11A",
+      "text": "岔枝花",
+      "pinyin": "ChaZhiHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x11B",
+      "text": "盛开花",
+      "pinyin": "ShengKaiHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x11C",
+      "text": "混成昆虫",
+      "pinyin": "HunChengKunChong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x11D",
+      "text": "混成拟态怪",
+      "pinyin": "HunChengNiTaiGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x11E",
+      "text": "混成恶魔",
+      "pinyin": "HunChengEMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x11F",
+      "text": "重型坦克",
+      "pinyin": "ZhongXingTanKe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x120",
+      "text": "憎恨号角",
+      "pinyin": "ZengHenHaoJiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x121",
+      "text": "奇奇奇亚秋",
+      "pinyin": "QiQiQiYaQiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x122",
+      "text": "杜杜杜亚秋",
+      "pinyin": "DuDuDuYaQiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x123",
+      "text": "巨岩魔像",
+      "pinyin": "JuYanMoXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x124",
+      "text": "太古魔像",
+      "pinyin": "TaiGuMoXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x125",
+      "text": "石化翼蜥",
+      "pinyin": "ShiHuaYiXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x126",
+      "text": "胆怯翼蜥",
+      "pinyin": "DanQieYiXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x127",
+      "text": "贾巴沃克",
+      "pinyin": "JiaBaWoKe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x128",
+      "text": "义族的亡灵",
+      "pinyin": "YiZuDeWangLing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x129",
+      "text": "刺针蜘蛛",
+      "pinyin": "CiZhenZhiZhu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x12A",
+      "text": "海盗恶魔",
+      "pinyin": "HaiDaoEMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x12B",
+      "text": "颈囊獠牙",
+      "pinyin": "JingNangLiaoYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x12C",
+      "text": "森林獠牙",
+      "pinyin": "SenLinLiaoYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x12D",
+      "text": "杀人蜂",
+      "pinyin": "ShaRenFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x12E",
+      "text": "女王蜂",
+      "pinyin": "NüWangFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x12F",
+      "text": "巴拔维拉缪",
+      "pinyin": "BaBaWeiLaMiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x130",
+      "text": "黑蝙蝠",
+      "pinyin": "HeiBianFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x131",
+      "text": "虫团",
+      "pinyin": "ChongTuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x132",
+      "text": "盖修梅泽",
+      "pinyin": "GaiXiuMeiZe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x133",
+      "text": "百目怪",
+      "pinyin": "BaiMuGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x134",
+      "text": "铁金甲",
+      "pinyin": "TieJinJia",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x135",
+      "text": "赭红浮游死神",
+      "pinyin": "ZheHongFuYouSiShen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x136",
+      "text": "浮游死神",
+      "pinyin": "FuYouSiShen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x137",
+      "text": "尖叫者",
+      "pinyin": "JianJiaoZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x138",
+      "text": "新尾针爆怪",
+      "pinyin": "XinWeiZhenBaoGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x139",
+      "text": "马杜万诛",
+      "pinyin": "MaDuWanZhu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x13A",
+      "text": "未知生命体",
+      "pinyin": "WeiZhiShengMingTi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x13B",
+      "text": "欢乐怪",
+      "pinyin": "HuanLeGuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x13C",
+      "text": "审判者",
+      "pinyin": "ShenPanZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x13D",
+      "text": "迦瑞安野兽",
+      "pinyin": "JiaRuiAnYeShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x13E",
+      "text": "星座蜗牛",
+      "pinyin": "XingZuoWoNiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x13F",
+      "text": "进化巨蛙",
+      "pinyin": "JinHuaJuWa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x140",
+      "text": "作废实验体",
+      "pinyin": "ZuoFeiShiYanTi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x141",
+      "text": "秘银魔像",
+      "pinyin": "MiYinMoXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x142",
+      "text": "摆尾龙鱼",
+      "pinyin": "BaiWeiLongYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x143",
+      "text": "义·纳塔塔克",
+      "pinyin": "YiNaTaTaKe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x144",
+      "text": "灵魂火焰",
+      "pinyin": "LingHunHuoYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x145",
+      "text": "亚历山大",
+      "pinyin": "YaLiShanDa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x146",
+      "text": "神秘剑豪",
+      "pinyin": "ShenMiJianHao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x147",
+      "text": "广阔的世界",
+      "pinyin": "GuangKuoDeShiJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x148",
+      "text": "新时代的号炮",
+      "pinyin": "XinShiDaiDeHaoPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x149",
+      "text": "太阳乐园",
+      "pinyin": "TaiYangLeYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x14A",
+      "text": "星球守护者",
+      "pinyin": "XingQiuShouHuZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x14B",
+      "text": "峡谷战士",
+      "pinyin": "XiaGuZhanShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x14C",
+      "text": "陌生的故乡",
+      "pinyin": "MoShengDeGuXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x14D",
+      "text": "寻找楔石",
+      "pinyin": "XunZhaoXieShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x14E",
+      "text": "太阳海岸",
+      "pinyin": "TaiYangHaiAn",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x14F",
+      "text": "海滨乔尼",
+      "pinyin": "HaiBinQiaoNi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x150",
+      "text": "魔幻绽放",
+      "pinyin": "MoHuanZhanFang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x151",
+      "text": "闹鬼酒店",
+      "pinyin": "NaoGuiJiuDian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x152",
+      "text": "奇迹广场",
+      "pinyin": "QiJiGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x153",
+      "text": "战斗广场",
+      "pinyin": "ZhanDouGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x154",
+      "text": "速度广场",
+      "pinyin": "SuDuGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x155",
+      "text": "燃烧弹",
+      "pinyin": "RanShaoDan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x156",
+      "text": "星殒地区",
+      "pinyin": "XingYunDiQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x157",
+      "text": "星殒天文台",
+      "pinyin": "XingYunTianWenTai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x158",
+      "text": "送星仪式",
+      "pinyin": "SongXingYiShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x159",
+      "text": "义族的洞窟",
+      "pinyin": "YiZuDeDongKu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x15A",
+      "text": "义族的村落",
+      "pinyin": "YiZuDeCunLuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x15B",
+      "text": "青蛙跳跃",
+      "pinyin": "QingWaTiaoYue",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x15C",
+      "text": "战略机兵",
+      "pinyin": "ZhanLüeJiBing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x15D",
+      "text": "射击飞艇",
+      "pinyin": "SheJiFeiTing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x15E",
+      "text": "狂野奔驰",
+      "pinyin": "KuangYeBenChi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x15F",
+      "text": "卡片嘉年华",
+      "pinyin": "KaPianJiaNianHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x160",
+      "text": "陆行鸟钻圈",
+      "pinyin": "LuXingNiaoZuanQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x161",
+      "text": "沙漠狂袭",
+      "pinyin": "ShaMoKuangXi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x162",
+      "text": "矿车射击",
+      "pinyin": "KuangCheSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x163",
+      "text": "平衡车约会",
+      "pinyin": "PingHengCheYueHui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x164",
+      "text": "莫古力追逐赛",
+      "pinyin": "MoGuLiZhuiZhuSai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x165",
+      "text": "打击仙人掌",
+      "pinyin": "DaJiXianRenZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x166",
+      "text": "肌肉竞技场",
+      "pinyin": "JiRouJingJiChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x167",
+      "text": "海盗暴乱",
+      "pinyin": "HaiDaoBaoLuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x168",
+      "text": "皇家演奏会",
+      "pinyin": "HuangJiaYanZouHui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x169",
+      "text": "陆行鸟冲刺",
+      "pinyin": "LuXingNiaoChongCi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x16A",
+      "text": "回旋镖",
+      "pinyin": "HuiXuanBiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x16B",
+      "text": "风车镖",
+      "pinyin": "FengCheBiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x16C",
+      "text": "金属棍",
+      "pinyin": "JinShuGun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x16D",
+      "text": "钢铁剑",
+      "pinyin": "GangTieJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x16E",
+      "text": "秘银剑",
+      "pinyin": "MiYinJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x16F",
+      "text": "破甲大剑",
+      "pinyin": "PoJiaDaJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x170",
+      "text": "狼牙棒",
+      "pinyin": "LangYaBang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x171",
+      "text": "加农弹",
+      "pinyin": "JiaNongDan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x172",
+      "text": "原子铁钳",
+      "pinyin": "YuanZiTieQian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x173",
+      "text": "搏动炮",
+      "pinyin": "BoDongPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x174",
+      "text": "软羽手套",
+      "pinyin": "RuanYuShouTao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x175",
+      "text": "音速拳套",
+      "pinyin": "YinSuQuanTao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x176",
+      "text": "金属指虎",
+      "pinyin": "JinShuZhiHu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x177",
+      "text": "高级手套",
+      "pinyin": "GaoJiShouTao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x178",
+      "text": "银制长杖",
+      "pinyin": "YinZhiChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x179",
+      "text": "魔法长杖",
+      "pinyin": "MoFaChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x17A",
+      "text": "强击长杖",
+      "pinyin": "QiangJiChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x17B",
+      "text": "丝滑剑",
+      "pinyin": "SiHuaJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x17C",
+      "text": "原力吞噬者",
+      "pinyin": "YuanLiTunShiZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x17D",
+      "text": "水晶剑",
+      "pinyin": "ShuiJingJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x17E",
+      "text": "火山剑",
+      "pinyin": "HuoShanJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x17F",
+      "text": "大口径枪",
+      "pinyin": "DaKouJingQiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x180",
+      "text": "破敌发射器",
+      "pinyin": "PoDiFaSheQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x181",
+      "text": "破甲机炮",
+      "pinyin": "PoJiaJiPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x182",
+      "text": "法夫纳枪",
+      "pinyin": "FaFuNaQiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x183",
+      "text": "坚实火箭炮",
+      "pinyin": "JianShiHuoJianPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x184",
+      "text": "高声嘶吼",
+      "pinyin": "GaoShengSiHou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x185",
+      "text": "风精手套",
+      "pinyin": "FengJingShouTao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x186",
+      "text": "水晶手套",
+      "pinyin": "ShuiJingShouTao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x187",
+      "text": "雅恩格利佩尔",
+      "pinyin": "YaEnGeLiPeiEr",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x188",
+      "text": "永恒长杖",
+      "pinyin": "YongHengChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x189",
+      "text": "女帝长杖",
+      "pinyin": "NüDiChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x18A",
+      "text": "智者长杖",
+      "pinyin": "ZhiZheChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x18B",
+      "text": "棱镜长杖",
+      "pinyin": "LengJingChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x18C",
+      "text": "秘银项圈",
+      "pinyin": "MiYinXiangQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x18D",
+      "text": "反叛项圈",
+      "pinyin": "FanPanXiangQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x18E",
+      "text": "银制项圈",
+      "pinyin": "YinZhiXiangQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x18F",
+      "text": "黄金项圈",
+      "pinyin": "HuangJinXiangQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x190",
+      "text": "布里希嘉曼",
+      "pinyin": "BuLiXiJiaMan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x191",
+      "text": "魔法项圈",
+      "pinyin": "MoFaXiangQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x192",
+      "text": "回旋匕首",
+      "pinyin": "HuiXuanBiShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x193",
+      "text": "双生毒蛇",
+      "pinyin": "ShuangShengDuShe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x194",
+      "text": "水晶十字剑",
+      "pinyin": "ShuiJingShiZiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x195",
+      "text": "风魔手里剑",
+      "pinyin": "FengMoShouLiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x196",
+      "text": "黄色扩音器",
+      "pinyin": "HuangSeKuoYinQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x197",
+      "text": "钢铁扩音器",
+      "pinyin": "GangTieKuoYinQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x198",
+      "text": "水晶扩音器",
+      "pinyin": "ShuiJingKuoYinQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x199",
+      "text": "红色扩音器",
+      "pinyin": "HongSeKuoYinQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x19A",
+      "text": "回声扩音器",
+      "pinyin": "HuiShengKuoYinQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x19B",
+      "text": "黄金扩音器",
+      "pinyin": "HuangJinKuoYinQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x19C",
+      "text": "加拉尔号角",
+      "pinyin": "JiaLaErHaoJiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x19D",
+      "text": "青铜手镯",
+      "pinyin": "QingTongShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x19E",
+      "text": "铁手镯",
+      "pinyin": "TieShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x19F",
+      "text": "神秘护腕",
+      "pinyin": "ShenMiHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A0",
+      "text": "机械手镯",
+      "pinyin": "JiXieShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A1",
+      "text": "力量手环",
+      "pinyin": "LiLiangShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A2",
+      "text": "哥特手镯",
+      "pinyin": "GeTeShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A3",
+      "text": "星辰手环",
+      "pinyin": "XingChenShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A4",
+      "text": "钛手镯",
+      "pinyin": "TaiShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A5",
+      "text": "皮革护腕",
+      "pinyin": "PiGeHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A6",
+      "text": "铆钉护腕",
+      "pinyin": "MaoDingHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A7",
+      "text": "漆黑手环",
+      "pinyin": "QiHeiShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A8",
+      "text": "巫师手环",
+      "pinyin": "WuShiShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1A9",
+      "text": "魔力护腕",
+      "pinyin": "MoLiHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1AA",
+      "text": "法师护腕",
+      "pinyin": "FaShiHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1AB",
+      "text": "钢板护腕",
+      "pinyin": "GangBanHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1AC",
+      "text": "重金属护腕",
+      "pinyin": "ZhongJinShuHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1AD",
+      "text": "高级护腕",
+      "pinyin": "GaoJiHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1AE",
+      "text": "几何手环",
+      "pinyin": "JiHeShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1AF",
+      "text": "符文护腕",
+      "pinyin": "FuWenHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B0",
+      "text": "链接手镯",
+      "pinyin": "LianJieShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B1",
+      "text": "米德加手镯",
+      "pinyin": "MiDeJiaShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B2",
+      "text": "神罗手镯",
+      "pinyin": "ShenLuoShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B3",
+      "text": "忍者护腕",
+      "pinyin": "RenZheHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B4",
+      "text": "魔翔护腕",
+      "pinyin": "MoXiangHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B5",
+      "text": "鬼神护腕",
+      "pinyin": "GuiShenHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B6",
+      "text": "凤凰护腕",
+      "pinyin": "FengHuangHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B7",
+      "text": "金属护臂",
+      "pinyin": "JinShuHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B8",
+      "text": "皮革手镯",
+      "pinyin": "PiGeShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1B9",
+      "text": "铜制护臂",
+      "pinyin": "TongZhiHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1BA",
+      "text": "木灵护身符",
+      "pinyin": "MuLingHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1BB",
+      "text": "坚硬手镯",
+      "pinyin": "JianYingShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1BC",
+      "text": "骨制手环",
+      "pinyin": "GuZhiShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1BD",
+      "text": "猫头鹰护臂",
+      "pinyin": "MaoTouYingHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1BE",
+      "text": "兽人护腕",
+      "pinyin": "ShouRenHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1BF",
+      "text": "水手护臂",
+      "pinyin": "ShuiShouHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C0",
+      "text": "象皮手镯",
+      "pinyin": "XiangPiShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C1",
+      "text": "野性手环",
+      "pinyin": "YeXingShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C2",
+      "text": "女王手镯",
+      "pinyin": "NüWangShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C3",
+      "text": "堡垒护臂",
+      "pinyin": "BaoLeiHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C4",
+      "text": "幻惑护身符",
+      "pinyin": "HuanHuoHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C5",
+      "text": "深渊手镯",
+      "pinyin": "ShenYuanShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C6",
+      "text": "巨兽手环",
+      "pinyin": "JuShouShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C7",
+      "text": "奇术护腕",
+      "pinyin": "QiShuHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C8",
+      "text": "飞燕护臂",
+      "pinyin": "FeiYanHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1C9",
+      "text": "合金护臂",
+      "pinyin": "HeJinHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1CA",
+      "text": "魔女护身符",
+      "pinyin": "MoNüHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1CB",
+      "text": "法外之徒手镯",
+      "pinyin": "FaWaiZhiTuShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1CC",
+      "text": "鳄鱼手环",
+      "pinyin": "EYuShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1CD",
+      "text": "贤者护腕",
+      "pinyin": "XianZheHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1CE",
+      "text": "大角手环",
+      "pinyin": "DaJiaoShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1CF",
+      "text": "陆行鸟护腕",
+      "pinyin": "LuXingNiaoHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D0",
+      "text": "司令护臂",
+      "pinyin": "SiLingHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D1",
+      "text": "冥界护身符",
+      "pinyin": "MingJieHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D2",
+      "text": "螺纹手环",
+      "pinyin": "LuoWenShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D3",
+      "text": "谷神星手镯",
+      "pinyin": "GuShenXingShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D4",
+      "text": "脊骨手环",
+      "pinyin": "JiGuShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D5",
+      "text": "荣耀护臂",
+      "pinyin": "RongYaoHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D6",
+      "text": "迦姆手镯",
+      "pinyin": "JiaMuShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D7",
+      "text": "沃瓦道斯手环",
+      "pinyin": "WoWaDaoSiShouHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D8",
+      "text": "女武神手镯",
+      "pinyin": "NüWuShenShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1D9",
+      "text": "哈迪斯护身符",
+      "pinyin": "HaDiSiHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1DA",
+      "text": "赛特拉护臂",
+      "pinyin": "SaiTeLaHuBi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1DB",
+      "text": "赛特拉护身符",
+      "pinyin": "SaiTeLaHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1DC",
+      "text": "赛特拉手镯",
+      "pinyin": "SaiTeLaShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1DD",
+      "text": "赛特拉护腕",
+      "pinyin": "SaiTeLaHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1DE",
+      "text": "威力护腕",
+      "pinyin": "WeiLiHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1DF",
+      "text": "疗愈颈链",
+      "pinyin": "LiaoYuJingLian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E0",
+      "text": "全力护腕",
+      "pinyin": "QuanLiHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E1",
+      "text": "精灵耳环",
+      "pinyin": "JingLingErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E2",
+      "text": "辟邪护符",
+      "pinyin": "BiXieHuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E3",
+      "text": "防弹背心",
+      "pinyin": "FangDanBeiXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E4",
+      "text": "白金耳环",
+      "pinyin": "BaiJinErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E5",
+      "text": "远古护身符",
+      "pinyin": "YuanGuHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E6",
+      "text": "星之坠饰",
+      "pinyin": "XingZhiZhuiShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E7",
+      "text": "青蛙戒指",
+      "pinyin": "QingWaJieZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E8",
+      "text": "疾风领巾",
+      "pinyin": "JiFengLingJin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1E9",
+      "text": "救赎徽章",
+      "pinyin": "JiuShuHuiZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1EA",
+      "text": "新月幸运符",
+      "pinyin": "XinYueXingYunFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1EB",
+      "text": "防御长靴",
+      "pinyin": "FangYuChangXue",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1EC",
+      "text": "诸神黄昏",
+      "pinyin": "ZhuShenHuangHun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1ED",
+      "text": "冠军腰带",
+      "pinyin": "GuanJunYaoDai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1EE",
+      "text": "莫古力护符",
+      "pinyin": "MoGuLiHuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1EF",
+      "text": "神奇水晶",
+      "pinyin": "ShenQiShuiJing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F0",
+      "text": "愤怒戒指",
+      "pinyin": "FenNuJieZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F1",
+      "text": "魔法戒指",
+      "pinyin": "MoFaJieZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F2",
+      "text": "魔法齿轮",
+      "pinyin": "MoFaChiLun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F3",
+      "text": "怒气传导器",
+      "pinyin": "NuQiChuanDaoQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F4",
+      "text": "幻兽护符",
+      "pinyin": "HuanShouHuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F5",
+      "text": "明星腰带",
+      "pinyin": "MingXingYaoDai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F6",
+      "text": "赤鬼内存",
+      "pinyin": "ChiGuiNeiCun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F7",
+      "text": "青鬼内存",
+      "pinyin": "QingGuiNeiCun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F8",
+      "text": "强力辟邪护符",
+      "pinyin": "QiangLiBiXieHuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1F9",
+      "text": "魔力耳环",
+      "pinyin": "MoLiErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1FA",
+      "text": "高威力护腕",
+      "pinyin": "GaoWeiLiHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1FB",
+      "text": "精神幸运符",
+      "pinyin": "JingShenXingYunFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1FC",
+      "text": "友爱耳环",
+      "pinyin": "YouAiErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1FD",
+      "text": "行人徽章",
+      "pinyin": "XingRenHuiZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1FE",
+      "text": "罗榭钥匙圈",
+      "pinyin": "LuoXieYaoShiQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x1FF",
+      "text": "邪龙戒指",
+      "pinyin": "XieLongJieZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x200",
+      "text": "海盗王的罗盘",
+      "pinyin": "HaiDaoWangDeLuoPan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x201",
+      "text": "源氏护手",
+      "pinyin": "YuanShiHuShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x202",
+      "text": "怨恨围巾",
+      "pinyin": "YuanHenWeiJin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x203",
+      "text": "幸运护符",
+      "pinyin": "XingYunHuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x204",
+      "text": "宝石戒指",
+      "pinyin": "BaoShiJieZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x205",
+      "text": "雪白披肩",
+      "pinyin": "XueBaiPiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x206",
+      "text": "全劲护腕",
+      "pinyin": "QuanJinHuWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x207",
+      "text": "战斗装甲",
+      "pinyin": "ZhanDouZhuangJia",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x208",
+      "text": "法师耳环",
+      "pinyin": "FaShiErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x209",
+      "text": "赛特拉护符",
+      "pinyin": "SaiTeLaHuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x20A",
+      "text": "极限增幅器",
+      "pinyin": "JiXianZengFuQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x20B",
+      "text": "不屈之戒",
+      "pinyin": "BuQuZhiJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x20C",
+      "text": "盗贼护手",
+      "pinyin": "DaoZeiHuShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x20D",
+      "text": "彻甲手榴弹",
+      "pinyin": "CheJiaShouLiuDan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x20E",
+      "text": "苔纹玛瑙",
+      "pinyin": "TaiWenMaNao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x20F",
+      "text": "绯红石",
+      "pinyin": "FeiHongShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x210",
+      "text": "月长石",
+      "pinyin": "YueChangShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x211",
+      "text": "秘银矿石",
+      "pinyin": "MiYinKuangShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x212",
+      "text": "魔法粉末",
+      "pinyin": "MoFaFenMo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x213",
+      "text": "星魔石",
+      "pinyin": "XingMoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x214",
+      "text": "芳醇橡木",
+      "pinyin": "FangChunXiangMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x215",
+      "text": "兀鹰杉木",
+      "pinyin": "WuYingShaMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x216",
+      "text": "贡加松木",
+      "pinyin": "GongJiaSongMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x217",
+      "text": "魔雾种子",
+      "pinyin": "MoWuZhongZi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x218",
+      "text": "圣露榭",
+      "pinyin": "ShengLuXie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x219",
+      "text": "珍珠姜",
+      "pinyin": "ZhenZhuJiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x21A",
+      "text": "墨角兰",
+      "pinyin": "MoJiaoLan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x21B",
+      "text": "星星碎片",
+      "pinyin": "XingXingSuiPian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x21C",
+      "text": "海盗遗物",
+      "pinyin": "HaiDaoYiWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x21D",
+      "text": "星之恩赐",
+      "pinyin": "XingZhiEnCi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x21E",
+      "text": "星之果实",
+      "pinyin": "XingZhiGuoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x21F",
+      "text": "星之恩惠",
+      "pinyin": "XingZhiEnHui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x220",
+      "text": "星之奥秘",
+      "pinyin": "XingZhiAoMi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x221",
+      "text": "星之祝福",
+      "pinyin": "XingZhiZhuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x222",
+      "text": "星之启示",
+      "pinyin": "XingZhiQiShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x223",
+      "text": "范围化",
+      "pinyin": "FanWeiHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x224",
+      "text": "魔法追击",
+      "pinyin": "MoFaZhuiJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x225",
+      "text": "敌方招式",
+      "pinyin": "DiFangZhaoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x226",
+      "text": "道具高手",
+      "pinyin": "DaoJuGaoShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x227",
+      "text": "自动疗伤",
+      "pinyin": "ZiDongLiaoShang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x228",
+      "text": "强化防御",
+      "pinyin": "QiangHuaFangYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x229",
+      "text": "闪避斩",
+      "pinyin": "ShanBiZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x22A",
+      "text": "提升经验值",
+      "pinyin": "TiShengJingYanZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x22B",
+      "text": "先发制人",
+      "pinyin": "XianFaZhiRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x22C",
+      "text": "招式高手",
+      "pinyin": "ZhaoShiGaoShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x22D",
+      "text": "魔晶石跃升",
+      "pinyin": "MoJingShiYueSheng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x22E",
+      "text": "自动魔法",
+      "pinyin": "ZiDongMoFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x22F",
+      "text": "强化魔法",
+      "pinyin": "QiangHuaMoFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x230",
+      "text": "快速咏唱",
+      "pinyin": "KuaiSuYongChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x231",
+      "text": "道具大师",
+      "pinyin": "DaoJuDaShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x232",
+      "text": "极限结合",
+      "pinyin": "JiXianJieHe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x233",
+      "text": "联手连锁",
+      "pinyin": "LianShouLianSuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x234",
+      "text": "极限共享",
+      "pinyin": "JiXianGongXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x235",
+      "text": "吉尔伽美什",
+      "pinyin": "JiErGaMeiShen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x236",
+      "text": "莫古力团",
+      "pinyin": "MoGuLiTuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x237",
+      "text": "花俏陆行鸟",
+      "pinyin": "HuaQiaoLuXingNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x238",
+      "text": "惩戒串联",
+      "pinyin": "ChengJieChuanLian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x239",
+      "text": "追击之友",
+      "pinyin": "ZhuiJiZhiYou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x23A",
+      "text": "迅雷风烈",
+      "pinyin": "XunLeiFengLie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x23B",
+      "text": "背猫之刑",
+      "pinyin": "BeiMaoZhiXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x23C",
+      "text": "甜蜜匪徒",
+      "pinyin": "TianMiFeiTu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x23D",
+      "text": "天堂弹珠台",
+      "pinyin": "TianTangDanZhuTai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x23E",
+      "text": "行星咆哮",
+      "pinyin": "XingXingPaoXiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x23F",
+      "text": "热情搏动炮",
+      "pinyin": "ReQingBoDongPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x240",
+      "text": "雪崩混战",
+      "pinyin": "XueBengHunZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x241",
+      "text": "猫咪加农炮",
+      "pinyin": "MaoMiJiaNongPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x242",
+      "text": "忍者机关枪",
+      "pinyin": "RenZheJiGuanQiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x243",
+      "text": "和谐回旋",
+      "pinyin": "HeXieHuiXuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x244",
+      "text": "猛虎快攻",
+      "pinyin": "MengHuKuaiGong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x245",
+      "text": "莫古力灌顶",
+      "pinyin": "MoGuLiGuanDing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x246",
+      "text": "联合狂暴",
+      "pinyin": "LianHeKuangBao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x247",
+      "text": "傀儡马戏团",
+      "pinyin": "KuiLeiMaXiTuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x248",
+      "text": "飞跃野兽",
+      "pinyin": "FeiYueYeShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x249",
+      "text": "野蛮搭档",
+      "pinyin": "YeManDaDang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x24A",
+      "text": "猫咪冲撞",
+      "pinyin": "MaoMiChongZhuang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x24B",
+      "text": "云外苍天",
+      "pinyin": "YunWaiCangTian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x24C",
+      "text": "超绝分身术",
+      "pinyin": "ChaoJueFenShenShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x24D",
+      "text": "螺旋台风",
+      "pinyin": "LuoXuanTaiFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x24E",
+      "text": "巨大莫古力",
+      "pinyin": "JuDaMoGuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x24F",
+      "text": "转转木马",
+      "pinyin": "ZhuanZhuanMuMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x250",
+      "text": "嚼嚼弹跳",
+      "pinyin": "JiaoJiaoTanTiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x251",
+      "text": "交叉螺旋",
+      "pinyin": "JiaoChaLuoXuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x252",
+      "text": "空洞爆发",
+      "pinyin": "KongDongBaoFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x253",
+      "text": "反击射击",
+      "pinyin": "FanJiSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x254",
+      "text": "猛烈爆发",
+      "pinyin": "MengLieBaoFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x255",
+      "text": "魔法爆发",
+      "pinyin": "MoFaBaoFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x256",
+      "text": "变换防御",
+      "pinyin": "BianHuanFangYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x257",
+      "text": "知音支援",
+      "pinyin": "ZhiYinZhiYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x258",
+      "text": "光耀爆发",
+      "pinyin": "GuangYaoBaoFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x259",
+      "text": "双重防御",
+      "pinyin": "ShuangChongFangYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x25A",
+      "text": "超级冲撞",
+      "pinyin": "ChaoJiChongZhuang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x25B",
+      "text": "友谊射击",
+      "pinyin": "YouYiSheJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x25C",
+      "text": "摩天翔",
+      "pinyin": "MoTianXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x25D",
+      "text": "天升击",
+      "pinyin": "TianShengJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x25E",
+      "text": "摇摆捷舞",
+      "pinyin": "YaoBaiJieWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x25F",
+      "text": "狂野驰骋",
+      "pinyin": "KuangYeChiCheng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x260",
+      "text": "魅影撕咬",
+      "pinyin": "MeiYingSiYao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x261",
+      "text": "锁定手里剑",
+      "pinyin": "SuoDingShouLiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x262",
+      "text": "进攻冲刺",
+      "pinyin": "JinGongChongCi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x263",
+      "text": "双剑乱舞",
+      "pinyin": "ShuangJianLuanWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x264",
+      "text": "闪光烈焰",
+      "pinyin": "ShanGuangLieYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x265",
+      "text": "空中驱动",
+      "pinyin": "KongZhongQuDong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x266",
+      "text": "画龙点睛",
+      "pinyin": "HuaLongDianJing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x267",
+      "text": "招架反击",
+      "pinyin": "ZhaoJiaFanJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x268",
+      "text": "蓄积气场",
+      "pinyin": "XuJiQiChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x269",
+      "text": "八刀一闪",
+      "pinyin": "BaDaoYiShan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x26A",
+      "text": "反击之刃",
+      "pinyin": "FanJiZhiRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x26B",
+      "text": "时间之力",
+      "pinyin": "ShiJianZhiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x26C",
+      "text": "闪光魔法阵",
+      "pinyin": "ShanGuangMoFaZhen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x26D",
+      "text": "神圣蓄积",
+      "pinyin": "ShenShengXuJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x26E",
+      "text": "愤怒烙印",
+      "pinyin": "FenNuLaoYin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x26F",
+      "text": "旋风俯冲",
+      "pinyin": "XuanFengFuChong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x270",
+      "text": "天堂部落",
+      "pinyin": "TianTangBuLuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x271",
+      "text": "连续斩",
+      "pinyin": "LianXuZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x272",
+      "text": "陨石乱击",
+      "pinyin": "YunShiLuanJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x273",
+      "text": "额外弹药",
+      "pinyin": "EWaiDanYao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x274",
+      "text": "灵魂爆发",
+      "pinyin": "LingHunBaoFa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x275",
+      "text": "血腥轰炸",
+      "pinyin": "XueXingHongZha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x276",
+      "text": "回旋利牙",
+      "pinyin": "HuiXuanLiYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x277",
+      "text": "超级防御",
+      "pinyin": "ChaoJiFangYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x278",
+      "text": "星尘射线",
+      "pinyin": "XingChenSheXian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x279",
+      "text": "月牙爪击",
+      "pinyin": "YueYaZhaoJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x27A",
+      "text": "癫狂快感",
+      "pinyin": "DianKuangKuaiGan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x27B",
+      "text": "战士疗愈",
+      "pinyin": "ZhanShiLiaoYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x27C",
+      "text": "战士鼓舞",
+      "pinyin": "ZhanShiGuWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x27D",
+      "text": "致命挥击",
+      "pinyin": "ZhiMingHuiJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x27E",
+      "text": "穿刺獠牙",
+      "pinyin": "ChuanCiLiaoYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x27F",
+      "text": "血腥獠牙",
+      "pinyin": "XueXingLiaoYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x280",
+      "text": "大地狂啸",
+      "pinyin": "DaDiKuangXiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x281",
+      "text": "投掷手里剑",
+      "pinyin": "TouZhiShouLiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x282",
+      "text": "风林火山",
+      "pinyin": "FengLinHuoShan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x283",
+      "text": "雾锁云埋",
+      "pinyin": "WuSuoYunMai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x284",
+      "text": "忍术变化",
+      "pinyin": "RenShuBianHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x285",
+      "text": "出其不意",
+      "pinyin": "ChuQiBuYi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x286",
+      "text": "飞毛腿功",
+      "pinyin": "FeiMaoTuiGong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x287",
+      "text": "邪鬼退散",
+      "pinyin": "XieGuiTuiSan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x288",
+      "text": "吸收邪气",
+      "pinyin": "XiShouXieQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x289",
+      "text": "疾风迅雷",
+      "pinyin": "JiFengXunLei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x28A",
+      "text": "生者必灭",
+      "pinyin": "ShengZheBiMie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x28B",
+      "text": "头奖杀戮",
+      "pinyin": "TouJiangShaLu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x28C",
+      "text": "抚猫光束",
+      "pinyin": "FuMaoGuangShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x28D",
+      "text": "全体破坏",
+      "pinyin": "QuanTiPoHuai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x28E",
+      "text": "猫盆攻击",
+      "pinyin": "MaoPenGongJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x28F",
+      "text": "猫咪攻击",
+      "pinyin": "MaoMiGongJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x290",
+      "text": "呼叫莫古力",
+      "pinyin": "HuJiaoMoGuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x291",
+      "text": "运势攻击",
+      "pinyin": "YunShiGongJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x292",
+      "text": "莫古力爆炸",
+      "pinyin": "MoGuLiBaoZha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x293",
+      "text": "莫古力地雷",
+      "pinyin": "MoGuLiDiLei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x294",
+      "text": "莫古力召唤术",
+      "pinyin": "MoGuLiZhaoHuanShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x295",
+      "text": "莫古力拳击",
+      "pinyin": "MoGuLiQuanJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x296",
+      "text": "莫古力突击",
+      "pinyin": "MoGuLiTuJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x297",
+      "text": "莫古箱",
+      "pinyin": "MoGuXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x298",
+      "text": "百万莫古箱",
+      "pinyin": "BaiWanMoGuXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x299",
+      "text": "十亿莫古箱",
+      "pinyin": "ShiYiMoGuXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x29A",
+      "text": "前坠踢",
+      "pinyin": "QianZhuiTi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x29B",
+      "text": "守护鼓舞",
+      "pinyin": "ShouHuGuWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x29C",
+      "text": "狂暴鼓舞",
+      "pinyin": "KuangBaoGuWu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x29D",
+      "text": "沉默撞击",
+      "pinyin": "ChenMoZhuangJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x29E",
+      "text": "时间撞击",
+      "pinyin": "ShiJianZhuangJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x29F",
+      "text": "中毒撞击",
+      "pinyin": "ZhongDuZhuangJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A0",
+      "text": "石化撞击",
+      "pinyin": "ShiHuaZhuangJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A1",
+      "text": "快速蓄力",
+      "pinyin": "KuaiSuXuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A2",
+      "text": "攻击蓄力",
+      "pinyin": "GongJiXuLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A3",
+      "text": "猛爆快攻",
+      "pinyin": "MengBaoKuaiGong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A4",
+      "text": "疗愈之风",
+      "pinyin": "LiaoYuZhiFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A5",
+      "text": "最后轮盘",
+      "pinyin": "ZuiHouLunPan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A6",
+      "text": "仙人掌炸弹",
+      "pinyin": "XianRenZhangZhaDan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A7",
+      "text": "超级臭气",
+      "pinyin": "ChaoJiChouQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A8",
+      "text": "怒发冲冠爆击",
+      "pinyin": "NuFaChongGuanBaoJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2A9",
+      "text": "大家的怨恨",
+      "pinyin": "DaJiaDeYuanHen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2AA",
+      "text": "怨恨爆炸",
+      "pinyin": "YuanHenBaoZha",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2AB",
+      "text": "阴生气了",
+      "pinyin": "YinShengQiLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2AC",
+      "text": "莫古炸弹",
+      "pinyin": "MoGuZhaDan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2AD",
+      "text": "陆行鸟踢",
+      "pinyin": "LuXingNiaoTi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2AE",
+      "text": "塔克斯俯冲",
+      "pinyin": "TaKeSiFuChong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2AF",
+      "text": "命运宣告",
+      "pinyin": "MingYunXuanGao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B0",
+      "text": "无心天使",
+      "pinyin": "WuXinTianShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B1",
+      "text": "斩铁剑",
+      "pinyin": "ZhanTieJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B2",
+      "text": "莫古力紧急出动",
+      "pinyin": "MoGuLiJinJiChuDong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B3",
+      "text": "钻石星尘",
+      "pinyin": "ZuanShiXingChen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B4",
+      "text": "大地之怒",
+      "pinyin": "DaDiZhiNu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B5",
+      "text": "转生之炎",
+      "pinyin": "ZhuanShengZhiYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B6",
+      "text": "神圣审判",
+      "pinyin": "ShenShengShenPan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B7",
+      "text": "三重灾祸",
+      "pinyin": "SanZhongZaiHuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B8",
+      "text": "魔晶耳环",
+      "pinyin": "MoJingErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2B9",
+      "text": "水塔广场",
+      "pinyin": "ShuiTaGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2BA",
+      "text": "尼福尔山",
+      "pinyin": "NiFuErShan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2BB",
+      "text": "神罗公馆",
+      "pinyin": "ShenLuoGongGuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2BC",
+      "text": "贾斯德博士",
+      "pinyin": "JiaSiDeBoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2BD",
+      "text": "杰诺瓦计划",
+      "pinyin": "JieNuoWaJiHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2BE",
+      "text": "罗夏·赞甘",
+      "pinyin": "LuoXiaZanGan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2BF",
+      "text": "我要去见母亲",
+      "pinyin": "WoYaoQuJianMuQin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C0",
+      "text": "技能书",
+      "pinyin": "JiNengShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C1",
+      "text": "制作终端机",
+      "pinyin": "ZhiZuoZhongDuanJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C2",
+      "text": "快速移动",
+      "pinyin": "KuaiSuYiDong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C3",
+      "text": "秘银矿坑",
+      "pinyin": "MiYinKuangKeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C4",
+      "text": "奥利弗牧场",
+      "pinyin": "AoLiFuMuChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C5",
+      "text": "格林牧场",
+      "pinyin": "GeLinMuChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C6",
+      "text": "格林葛林",
+      "pinyin": "GeLinGeLin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C7",
+      "text": "黄金羽毛",
+      "pinyin": "HuangJinYuMao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C8",
+      "text": "格拉斯兰",
+      "pinyin": "GeLaSiLan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2C9",
+      "text": "世界报告",
+      "pinyin": "ShiJieBaoGao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2CA",
+      "text": "莫古力奖牌",
+      "pinyin": "MoGuLiJiangPai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2CB",
+      "text": "黄金点数",
+      "pinyin": "HuangJinDianShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2CC",
+      "text": "战斗报告",
+      "pinyin": "ZhanDouBaoGao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2CD",
+      "text": "生命点",
+      "pinyin": "ShengMingDian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2CE",
+      "text": "古代物质",
+      "pinyin": "GuDaiWuZhi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2CF",
+      "text": "陆行鸟笛",
+      "pinyin": "LuXingNiaoDi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D0",
+      "text": "史夫尔总督",
+      "pinyin": "ShiFuErZongDu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D1",
+      "text": "伊弗利特阵形",
+      "pinyin": "YiFuLiTeZhenXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D2",
+      "text": "巴哈姆特阵形",
+      "pinyin": "BaHaMuTeZhenXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D3",
+      "text": "拉姆阵形",
+      "pinyin": "LaMuZhenXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D4",
+      "text": "希瓦阵形",
+      "pinyin": "XiWaZhenXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D5",
+      "text": "巨型魔晶石",
+      "pinyin": "JuXingMoJingShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D6",
+      "text": "第八神罗丸",
+      "pinyin": "DiBaShenLuoWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D7",
+      "text": "蕾吉·肯尼金",
+      "pinyin": "LeiJiKenNiJin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D8",
+      "text": "神罗度假村",
+      "pinyin": "ShenLuoDuJiaCun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2D9",
+      "text": "黑斗篷",
+      "pinyin": "HeiDouPeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2DA",
+      "text": "在海岸遇见爱",
+      "pinyin": "ZaiHaiAnYuJianAi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2DB",
+      "text": "平衡车",
+      "pinyin": "PingHengChe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2DC",
+      "text": "太阳海岸·海滩",
+      "pinyin": "TaiYangHaiAnHaiTan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2DD",
+      "text": "席隆医生",
+      "pinyin": "XiLongYiSheng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2DE",
+      "text": "活动广场",
+      "pinyin": "HuoDongGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2DF",
+      "text": "鬼魂广场",
+      "pinyin": "GuiHunGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E0",
+      "text": "乐园中心",
+      "pinyin": "LeYuanZhongXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E1",
+      "text": "黄金剧场",
+      "pinyin": "HuangJinJuChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E2",
+      "text": "黄金乐园",
+      "pinyin": "HuangJinLeYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E3",
+      "text": "超越极限",
+      "pinyin": "ChaoYueJiXian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E4",
+      "text": "别怨我",
+      "pinyin": "BieYuanWo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E5",
+      "text": "黄金护照",
+      "pinyin": "HuangJinHuZhao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E6",
+      "text": "星球的血液",
+      "pinyin": "XingQiuDeXueYe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E7",
+      "text": "真的很抱歉",
+      "pinyin": "ZhenDeHenBaoQian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E8",
+      "text": "不，香草不行",
+      "pinyin": "BuXiangCaoBuXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2E9",
+      "text": "钩索枪",
+      "pinyin": "GouSuoQiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2EA",
+      "text": "贡加加村",
+      "pinyin": "GongJiaJiaCun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2EB",
+      "text": "贡加菇",
+      "pinyin": "GongJiaGu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2EC",
+      "text": "这次我会保护你",
+      "pinyin": "ZheCiWoHuiBaoHuNi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2ED",
+      "text": "野马航空",
+      "pinyin": "YeMaHangKong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2EE",
+      "text": "盖泽尔·布根哈根",
+      "pinyin": "GaiZeErBuGenHaGen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2EF",
+      "text": "布根哈根",
+      "pinyin": "BuGenHaGen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F0",
+      "text": "星球的子民",
+      "pinyin": "XingQiuDeZiMin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F1",
+      "text": "星命学习器",
+      "pinyin": "XingMingXueXiQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F2",
+      "text": "漆黑的宝珠",
+      "pinyin": "QiHeiDeBaoZhu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F3",
+      "text": "文森特·瓦伦丁",
+      "pinyin": "WenSenTeWaLunDing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F4",
+      "text": "迦尔帝亚",
+      "pinyin": "JiaErDiYa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F5",
+      "text": "阿尔弗雷德",
+      "pinyin": "AErFuLeiDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F6",
+      "text": "沃瓦道斯",
+      "pinyin": "WoWaDaoSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F7",
+      "text": "我今天不加班",
+      "pinyin": "WoJinTianBuJiaBan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F8",
+      "text": "不必悲伤",
+      "pinyin": "BuBiBeiShang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2F9",
+      "text": "忘却之都",
+      "pinyin": "WangQueZhiDou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2FA",
+      "text": "正宗",
+      "pinyin": "ZhengZong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2FB",
+      "text": "坠落的英雄",
+      "pinyin": "ZhuiLuoDeYingXiong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2FC",
+      "text": "杰诺瓦再临",
+      "pinyin": "JieNuoWaZaiLin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2FD",
+      "text": "片刻假期",
+      "pinyin": "PianKeJiaQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2FE",
+      "text": "逃离乐园",
+      "pinyin": "TaoLiLeYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x2FF",
+      "text": "查德利计算溢出",
+      "pinyin": "ChaDeLiJiSuanYiChu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x300",
+      "text": "星球的悲鸣",
+      "pinyin": "XingQiuDeBeiMing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x301",
+      "text": "钢琴巨匠",
+      "pinyin": "GangQinJuJiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x302",
+      "text": "超越一切者",
+      "pinyin": "ChaoYueYiQieZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x303",
+      "text": "复仇之旅启程",
+      "pinyin": "FuChouZhiLüQiCheng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x304",
+      "text": "逃离第捌区",
+      "pinyin": "TaoLiDiBaQu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x305",
+      "text": "瓮中之鳖",
+      "pinyin": "WengZhongZhiBie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x306",
+      "text": "飞镖高手",
+      "pinyin": "FeiBiaoGaoShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x307",
+      "text": "舞蹈皇后",
+      "pinyin": "WuDaoHuangHou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x308",
+      "text": "传说剑豪",
+      "pinyin": "ChuanShuoJianHao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x309",
+      "text": "连打重击",
+      "pinyin": "LianDaZhongJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x30A",
+      "text": "制裁之雷",
+      "pinyin": "ZhiCaiZhiLei",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x30B",
+      "text": "冰柱咆哮",
+      "pinyin": "BingZhuPaoXiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x30C",
+      "text": "双刺剑",
+      "pinyin": "ShuangCiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x30D",
+      "text": "猎鹰人",
+      "pinyin": "LieYingRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x30E",
+      "text": "走了，新来的！",
+      "pinyin": "ZouLeXinLaiDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x30F",
+      "text": "哈，非常好！",
+      "pinyin": "HaFeiChangHao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x310",
+      "text": "爸爸，欢迎回来！",
+      "pinyin": "BaBaHuanYingHuiLai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x311",
+      "text": "咻咻咻咻！",
+      "pinyin": "XiuXiuXiuXiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x312",
+      "text": "喂！你干什么啊！",
+      "pinyin": "WeiNiGanShenMeA",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x313",
+      "text": "兴致勃勃！",
+      "pinyin": "XingZhiBoBo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x314",
+      "text": "干劲十足！",
+      "pinyin": "GanJinShiZu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x315",
+      "text": "来比一场吧！",
+      "pinyin": "LaiBiYiChangBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x316",
+      "text": "忍法，晴天霹雳！",
+      "pinyin": "RenFaQingTianPiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x317",
+      "text": "招待不周！",
+      "pinyin": "ZhaoDaiBuZhou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x318",
+      "text": "劲歌热舞吧！",
+      "pinyin": "JinGeReWuBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x319",
+      "text": "请多指教！",
+      "pinyin": "QingDuoZhiJiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x31A",
+      "text": "神罗去吃屎吧！",
+      "pinyin": "ShenLuoQuChiShiBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x31B",
+      "text": "处以撸猫之刑！",
+      "pinyin": "ChuYiLuMaoZhiXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x31C",
+      "text": "洛克哈特",
+      "pinyin": "LuoKeHaTe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x31D",
+      "text": "斯特莱夫",
+      "pinyin": "SiTeLaiFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x31E",
+      "text": "盖恩斯伯勒",
+      "pinyin": "GaiEnSiBoLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x31F",
+      "text": "放马过来吧！",
+      "pinyin": "FangMaGuoLaiBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x320",
+      "text": "宗达村长",
+      "pinyin": "ZongDaCunZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x321",
+      "text": "忍者后裔",
+      "pinyin": "RenZheHouYi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x322",
+      "text": "第肆圆盘",
+      "pinyin": "DiSiYuanPan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x323",
+      "text": "把握当下",
+      "pinyin": "BaWoDangXia",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4B",
+      "index": "0x324",
+      "text": "萨菲罗斯",
+      "pinyin": "SaFeiLuoSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x00",
+      "text": "别擅自把我当成一伙的",
+      "pinyin": "BieShanZiBaWoDangChengYiHuoDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x01",
+      "text": "单手是枪的男人",
+      "pinyin": "DanShouShiQiangDeNanRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x02",
+      "text": "那是我的工作，不需要谢礼",
+      "pinyin": "NaShiWoDeGongZuoBuXuYaoXieLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x03",
+      "text": "神罗治安维护部队",
+      "pinyin": "ShenLuoZhiAnWeiHuBuDui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x04",
+      "text": "我们的星球即将消失",
+      "pinyin": "WoMenDeXingQiuJiJiangXiaoShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x05",
+      "text": "无法违逆既定的轨道",
+      "pinyin": "WuFaWeiNiJiDingDeGuiDao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x06",
+      "text": "贫民窟生活守则",
+      "pinyin": "PinMinKuShengHuoShouZe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x07",
+      "text": "米德加特制总汇",
+      "pinyin": "MiDeJiaTeZhiZongHui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x08",
+      "text": "我想多跟你在一起嘛",
+      "pinyin": "WoXiangDuoGenNiZaiYiQiMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x09",
+      "text": "围墙商店街",
+      "pinyin": "WeiQiangShangDianJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x0A",
+      "text": "不错，我有点心动",
+      "pinyin": "BuCuoWoYouDianXinDong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x0B",
+      "text": "我第一个喜欢上的人",
+      "pinyin": "WoDiYiGeXiHuanShangDeRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x0C",
+      "text": "让你成为最棒的新娘",
+      "pinyin": "RangNiChengWeiZuiBangDeXinNiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x0D",
+      "text": "克劳德，我可以叫你大哥吗？",
+      "pinyin": "KeLaoDeWoKeYiJiaoNiDaGeMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x0E",
+      "text": "克劳德，我可以动粗吗？",
+      "pinyin": "KeLaoDeWoKeYiDongCuMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x0F",
+      "text": "对付鬼不是我的专长",
+      "pinyin": "DuiFuGuiBuShiWoDeZhuanChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x10",
+      "text": "捉迷藏就到此为止了",
+      "pinyin": "ZhuoMiCangJiuDaoCiWeiZhiLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x11",
+      "text": "竟然搞错该回去的地方",
+      "pinyin": "JingRanGaoCuoGaiHuiQuDeDiFang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x12",
+      "text": "但你不要喜欢上我哦",
+      "pinyin": "DanNiBuYaoXiHuanShangWoO",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x13",
+      "text": "失去会使你变强",
+      "pinyin": "ShiQuHuiShiNiBianQiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x14",
+      "text": "螺旋飞行重炮",
+      "pinyin": "LuoXuanFeiXingZhongPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x15",
+      "text": "热身运动结束了",
+      "pinyin": "ReShenYunDongJieShuLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x16",
+      "text": "我会给你一个难忘的夜晚",
+      "pinyin": "WoHuiGeiNiYiGeNanWangDeYeWan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x17",
+      "text": "这是感人的重逢",
+      "pinyin": "ZheShiGanRenDeChongFeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x18",
+      "text": "然后，回到应许之地",
+      "pinyin": "RanHouHuiDaoYingXuZhiDi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x19",
+      "text": "妈妈，一起取回这个星球吧",
+      "pinyin": "MaMaYiQiQuHuiZheGeXingQiuBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x1A",
+      "text": "天空感觉真不舒服",
+      "pinyin": "TianKongGanJueZhenBuShuFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x1B",
+      "text": "自由的代价果然很高",
+      "pinyin": "ZiYouDeDaiJiaGuoRanHenGao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x1C",
+      "text": "夺取究极魔晶石",
+      "pinyin": "DuoQuJiuJiMoJingShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x1D",
+      "text": "令人焦急的水路",
+      "pinyin": "LingRenJiaoJiDeShuiLu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x1E",
+      "text": "能量上钩拳",
+      "pinyin": "NengLiangShangGouQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x1F",
+      "text": "原型机关枪",
+      "pinyin": "YuanXingJiGuanQiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x20",
+      "text": "雪崩的殊死战斗",
+      "pinyin": "XueBengDeShuSiZhanDou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x21",
+      "text": "强化战斗员",
+      "pinyin": "QiangHuaZhanDouYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x22",
+      "text": "重魔装战斗员",
+      "pinyin": "ZhongMoZhuangZhanDouYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x23",
+      "text": "重装甲战斗员",
+      "pinyin": "ZhongZhuangJiaZhanDouYuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x24",
+      "text": "特装型猎敌者",
+      "pinyin": "TeZhuangXingLieDiZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x25",
+      "text": "棘刺蓝鱼指挥官",
+      "pinyin": "JiCiLanYuZhiHuiGuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x26",
+      "text": "有翼列伏利恐鸟",
+      "pinyin": "YouYiLieFuLiKongNiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x27",
+      "text": "冠帽长矛水母",
+      "pinyin": "GuanMaoChangMaoShuiMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x28",
+      "text": "飞翔开膛手",
+      "pinyin": "FeiXiangKaiTangShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x29",
+      "text": "魔晶石看守者",
+      "pinyin": "MoJingShiKanShouZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x2A",
+      "text": "英雄萨菲罗斯",
+      "pinyin": "YingXiongSaFeiLuoSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x2B",
+      "text": "黑斗篷的去向",
+      "pinyin": "HeiDouPengDeQuXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x2C",
+      "text": "狂乱的海上旅行",
+      "pinyin": "KuangLuanDeHaiShangLüXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x2D",
+      "text": "充满懊悔的归乡",
+      "pinyin": "ChongManAoHuiDeGuiXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x2E",
+      "text": "迈向终结的世界",
+      "pinyin": "MaiXiangZhongJieDeShiJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x2F",
+      "text": "我要替搭档找你们算账",
+      "pinyin": "WoYaoTiDaDangZhaoNiMenSuanZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x30",
+      "text": "召唤兽的祠堂",
+      "pinyin": "ZhaoHuanShouDeCiTang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x31",
+      "text": "古代种的神殿",
+      "pinyin": "GuDaiZhongDeShenDian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x32",
+      "text": "野兽战斗广场",
+      "pinyin": "YeShouZhanDouGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x33",
+      "text": "仙人掌手里剑",
+      "pinyin": "XianRenZhangShouLiJian",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x34",
+      "text": "全金属长杖",
+      "pinyin": "QuanJinShuChangZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x35",
+      "text": "紫水晶项圈",
+      "pinyin": "ZiShuiJingXiangQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x36",
+      "text": "道路之星手镯",
+      "pinyin": "DaoLuZhiXingShouZhuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x37",
+      "text": "世界之树护身符",
+      "pinyin": "ShiJieZhiShuHuShenFu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x38",
+      "text": "野外求生背心",
+      "pinyin": "YeWaiQiuShengBeiXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x39",
+      "text": "自动重生耳环",
+      "pinyin": "ZiDongChongShengErHuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x3A",
+      "text": "宇宙骑士团从军勋章",
+      "pinyin": "YuZhouQiShiTuanCongJunXunZhang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x3B",
+      "text": "破坏专家钥匙圈",
+      "pinyin": "PoHuaiZhuanJiaYaoShiQuan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x3C",
+      "text": "陆行鸟王的斗篷",
+      "pinyin": "LuXingNiaoWangDeDouPeng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x3D",
+      "text": "强化精准防御",
+      "pinyin": "QiangHuaJingZhunFangYu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x3E",
+      "text": "轰隆轰隆炮",
+      "pinyin": "HongLongHongLongPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x3F",
+      "text": "神罗战士的尊严",
+      "pinyin": "ShenLuoZhanShiDeZunYan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x40",
+      "text": "真勇猛解放",
+      "pinyin": "ZhenYongMengJieFang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x41",
+      "text": "高度英勇斩击",
+      "pinyin": "GaoDuYingYongZhanJi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x42",
+      "text": "仙人掌魔法护盾",
+      "pinyin": "XianRenZhangMoFaHuDun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x43",
+      "text": "超电磁幻光球",
+      "pinyin": "ChaoDianCiHuanGuangQiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x44",
+      "text": "阳露出了笑容",
+      "pinyin": "YangLouChuLeXiaoRong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x45",
+      "text": "吉尔伽美什光束",
+      "pinyin": "JiErGaMeiShenGuangShu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x46",
+      "text": "尼福尔海姆是我的故乡",
+      "pinyin": "NiFuErHaiMuShiWoDeGuXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x47",
+      "text": "我一直认为自己是特别的",
+      "pinyin": "WoYiZhiRenWeiZiJiShiTeBieDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x48",
+      "text": "时代变了啊，克劳德",
+      "pinyin": "ShiDaiBianLeAKeLaoDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x49",
+      "text": "要对剑祈祷就趁现在",
+      "pinyin": "YaoDuiJianQiDaoJiuChenXianZai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x4A",
+      "text": "是你喜欢的发展呢",
+      "pinyin": "ShiNiXiHuanDeFaZhanNe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x4B",
+      "text": "我现在就去接你",
+      "pinyin": "WoXianZaiJiuQuJieNi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x4C",
+      "text": "我是天选之人",
+      "pinyin": "WoShiTianXuanZhiRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x4D",
+      "text": "让人梦寐以求的休假",
+      "pinyin": "RangRenMengMeiYiQiuDeXiuJia",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x4E",
+      "text": "爱丽丝就拜托你们了",
+      "pinyin": "AiLiSiJiuBaiTuoNiMenLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x4F",
+      "text": "是你们挑起战争的",
+      "pinyin": "ShiNiMenTiaoQiZhanZhengDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x50",
+      "text": "下次就推心置腹地聊聊吧",
+      "pinyin": "XiaCiJiuTuiXinZhiFuDiLiaoLiaoBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x51",
+      "text": "要比腹肌我是不会输的",
+      "pinyin": "YaoBiFuJiWoShiBuHuiShuDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x52",
+      "text": "丧尽天良的神罗公司",
+      "pinyin": "SangJinTianLiangDeShenLuoGongSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x53",
+      "text": "格伦·洛斯布鲁克上校",
+      "pinyin": "GeLunLuoSiBuLuKeShangXiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x54",
+      "text": "巨型魔晶石之争",
+      "pinyin": "JuXingMoJingShiZhiZheng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x55",
+      "text": "闪耀吧，磨亮吧，我的太阳",
+      "pinyin": "ShanYaoBaMoLiangBaWoDeTaiYang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x56",
+      "text": "来吧，新时代即将揭开序幕",
+      "pinyin": "LaiBaXinShiDaiJiJiangJieKaiXuMu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x57",
+      "text": "米德加第七步兵连队",
+      "pinyin": "MiDeJiaDiQiBuBingLianDui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x58",
+      "text": "新总裁就任庆祝游行",
+      "pinyin": "XinZongCaiJiuRenQingZhuYouXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x59",
+      "text": "来吧，表演时间到了",
+      "pinyin": "LaiBaBiaoYanShiJianDaoLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x5A",
+      "text": "太阳海岸度假村",
+      "pinyin": "TaiYangHaiAnDuJiaCun",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x5B",
+      "text": "像海螺一样卷卷的",
+      "pinyin": "XiangHaiLuoYiYangJuanJuanDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x5C",
+      "text": "海岸的英雄乔尼",
+      "pinyin": "HaiAnDeYingXiongQiaoNi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x5D",
+      "text": "下次就是雪耻之战了",
+      "pinyin": "XiaCiJiuShiXueChiZhiZhanLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x5E",
+      "text": "巨型魔晶石计划",
+      "pinyin": "JuXingMoJingShiJiHua",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x5F",
+      "text": "能和家人在一起是最好的",
+      "pinyin": "NengHeJiaRenZaiYiQiShiZuiHaoDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x60",
+      "text": "摩天轮广场",
+      "pinyin": "MoTianLunGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x61",
+      "text": "陆行鸟广场",
+      "pinyin": "LuXingNiaoGuangChang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x62",
+      "text": "这是我的……我们之间的问题",
+      "pinyin": "ZheShiWoDeWoMenZhiJianDeWenTi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x63",
+      "text": "幸运食物是蘑菇",
+      "pinyin": "XingYunShiWuShiMoGu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x64",
+      "text": "黑迷利翁或红溪里",
+      "pinyin": "HeiMiLiWengHuoHongXiLi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x65",
+      "text": "毕竟我没有讨厌他的理由嘛",
+      "pinyin": "BiJingWoMeiYouTaoYanTaDeLiYouMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x66",
+      "text": "天空不属于任何人",
+      "pinyin": "TianKongBuShuYuRenHeRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x67",
+      "text": "愿星球与各位同在",
+      "pinyin": "YuanXingQiuYuGeWeiTongZai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x68",
+      "text": "克劳德，我想得到黑魔晶石",
+      "pinyin": "KeLaoDeWoXiangDeDaoHeiMoJingShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x69",
+      "text": "搭档，说一下平常那句",
+      "pinyin": "DaDangShuoYiXiaPingChangNaJu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x6A",
+      "text": "你可别小看塔克斯",
+      "pinyin": "NiKeBieXiaoKanTaKeSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x6B",
+      "text": "得活着才能是塔克斯",
+      "pinyin": "DeHuoZheCaiNengShiTaKeSi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x6C",
+      "text": "我可爱的空壳人偶",
+      "pinyin": "WoKeAiDeKongKeRenOu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x6D",
+      "text": "用愤怒填满你空虚的心",
+      "pinyin": "YongFenNuTianManNiKongXuDeXin",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x6E",
+      "text": "充满回忆的地方",
+      "pinyin": "ChongManHuiYiDeDiFang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x6F",
+      "text": "我想重拾我的人生",
+      "pinyin": "WoXiangZhongShiWoDeRenSheng",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x70",
+      "text": "让我把祝福送给你吧",
+      "pinyin": "RangWoBaZhuFuSongGeiNiBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x71",
+      "text": "生命循环于这颗星球",
+      "pinyin": "ShengMingXunHuanYuZheKeXingQiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x72",
+      "text": "于我们的世界再结合",
+      "pinyin": "YuWoMenDeShiJieZaiJieHe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x73",
+      "text": "劣化的神罗战士",
+      "pinyin": "LieHuaDeShenLuoZhanShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x74",
+      "text": "充满回忆的约会",
+      "pinyin": "ChongManHuiYiDeYueHui",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x75",
+      "text": "钟爱莫古力的神罗战士",
+      "pinyin": "ZhongAiMoGuLiDeShenLuoZhanShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x76",
+      "text": "星球涌泉的战略大师",
+      "pinyin": "XingQiuYongQuanDeZhanLüeDaShi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x77",
+      "text": "兀鹰堡垒名将",
+      "pinyin": "WuYingBaoLeiMingJiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x78",
+      "text": "第七步兵连队全体集合",
+      "pinyin": "DiQiBuBingLianDuiQuanTiJiHe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x79",
+      "text": "获得最优秀表演奖",
+      "pinyin": "HuoDeZuiYouXiuBiaoYanJiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x7A",
+      "text": "万能帮手的工作",
+      "pinyin": "WanNengBangShouDeGongZuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x7B",
+      "text": "神罗战士的热身",
+      "pinyin": "ShenLuoZhanShiDeReShen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x7C",
+      "text": "神罗摩托车骑手",
+      "pinyin": "ShenLuoMoTuoCheQiShou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x7D",
+      "text": "乔尼的超级死党",
+      "pinyin": "QiaoNiDeChaoJiSiDang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x7E",
+      "text": "这是上级的命令",
+      "pinyin": "ZheShiShangJiDeMingLing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x7F",
+      "text": "宇宙不是我的对口专业",
+      "pinyin": "YuZhouBuShiWoDeDuiKouZhuanYe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x80",
+      "text": "我们似乎特别走运呢",
+      "pinyin": "WoMenSiHuTeBieZouYunNe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x81",
+      "text": "你很大胆嘛，我的朋友！",
+      "pinyin": "NiHenDaDanMaWoDePengYou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x82",
+      "text": "全都讨厌得不得了！",
+      "pinyin": "QuanDouTaoYanDeBuDeLiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x83",
+      "text": "可别忘了微笑啊",
+      "pinyin": "KeBieWangLeWeiXiaoA",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x84",
+      "text": "肮脏的鼠辈，欢迎你们！",
+      "pinyin": "AngZangDeShuBeiHuanYingNiMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x85",
+      "text": "我们会立刻彻底铲除你们！",
+      "pinyin": "WoMenHuiLiKeCheDiChanChuNiMen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x86",
+      "text": "来吧小猫咪，投入我的怀抱！",
+      "pinyin": "LaiBaXiaoMaoMiTouRuWoDeHuaiBao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x87",
+      "text": "万事通琪里耶的特大新闻哦！",
+      "pinyin": "WanShiTongQiLiYeDeTeDaXinWenO",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x88",
+      "text": "米德加的市长最棒了！",
+      "pinyin": "MiDeJiaDeShiZhangZuiBangLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x89",
+      "text": "来吧，展现你华丽的姿态",
+      "pinyin": "LaiBaZhanXianNiHuaLiDeZiTai",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x8A",
+      "text": "开始卡片对战！",
+      "pinyin": "KaiShiKaPianDuiZhan",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x8B",
+      "text": "火辣辣、痒痒的对吧！",
+      "pinyin": "HuoLaLaYangYangDeDuiBa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x8C",
+      "text": "实验秀要揭开序幕了！",
+      "pinyin": "ShiYanXiuYaoJieKaiXuMuLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x8D",
+      "text": "有时是华丽的刺客！",
+      "pinyin": "YouShiShiHuaLiDeCiKe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x8E",
+      "text": "就是大家最喜欢的尤菲哦！",
+      "pinyin": "JiuShiDaJiaZuiXiHuanDeYouFeiO",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x8F",
+      "text": "人生就是战斗！",
+      "pinyin": "RenShengJiuShiZhanDou",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x90",
+      "text": "我的手已经沾满鲜血了啊！",
+      "pinyin": "WoDeShouYiJingZhanManXianXueLeA",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x91",
+      "text": "立刻停止抵抗并投降",
+      "pinyin": "LiKeTingZhiDiKangBingTouXiang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x92",
+      "text": "美丽是不分男女的",
+      "pinyin": "MeiLiShiBuFenNanNüDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x93",
+      "text": "小心翼翼、忍耐安静……",
+      "pinyin": "XiaoXinYiYiRenNaiAnJing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x94",
+      "text": "只是回归星球而已",
+      "pinyin": "ZhiShiHuiGuiXingQiuErYi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4C",
+      "index": "0x95",
+      "text": "好好享受吧，克劳德",
+      "pinyin": "HaoHaoXiangShouBaKeLaoDe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x00",
+      "text": "强硬和愚蠢只有一线之隔",
+      "pinyin": "QiangYingHeYuChunZhiYouYiXianZhiGe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x01",
+      "text": "来吧，期待已久的表演时间到了！",
+      "pinyin": "LaiBaQiDaiYiJiuDeBiaoYanShiJianDaoLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x02",
+      "text": "它瞄准的敌人，没有一个跑得掉",
+      "pinyin": "TaMiaoZhunDeDiRenMeiYouYiGePaoDeDiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x03",
+      "text": "我居然忘记猪油已经用完了",
+      "pinyin": "WoJuRanWangJiZhuYouYiJingYongWanLe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x04",
+      "text": "神罗会在我手中脱胎换骨",
+      "pinyin": "ShenLuoHuiZaiWoShouZhongTuoTaiHuanGu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x05",
+      "text": "未来正掌握在你的手中",
+      "pinyin": "WeiLaiZhengZhangWoZaiNiDeShouZhong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x06",
+      "text": "人生是永无止境的迷宫",
+      "pinyin": "RenShengShiYongWuZhiJingDeMiGong",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x07",
+      "text": "特装型螺旋飞行重炮",
+      "pinyin": "TeZhuangXingLuoXuanFeiXingZhongPao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x08",
+      "text": "继承了伟大科学家工作的凡人",
+      "pinyin": "JiChengLeWeiDaKeXueJiaGongZuoDeFanRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x09",
+      "text": "宝条那家伙，居然真这么做",
+      "pinyin": "BaoTiaoNaJiaHuoJuRanZhenZheMeZuo",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x0A",
+      "text": "日后将成为星球的支配者",
+      "pinyin": "RiHouJiangChengWeiXingQiuDeZhiPeiZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x0B",
+      "text": "未来的最强卡片对战者",
+      "pinyin": "WeiLaiDeZuiQiangKaPianDuiZhanZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x0C",
+      "text": "用两只脚站立还真难啊",
+      "pinyin": "YongLiangZhiJiaoZhanLiHaiZhenNanA",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x0D",
+      "text": "陷入困境时，得到英雄拯救",
+      "pinyin": "XianRuKunJingShiDeDaoYingXiongZhengJiu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x0E",
+      "text": "星命学的圣地星殒峡谷",
+      "pinyin": "XingMingXueDeShengDiXingYunXiaGu",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x0F",
+      "text": "看来我的罪行又增加了一条",
+      "pinyin": "KanLaiWoDeZuiXingYouZengJiaLeYiTiao",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x10",
+      "text": "过去被称为英雄的男人",
+      "pinyin": "GuoQuBeiChengWeiYingXiongDeNanRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x11",
+      "text": "我得狠狠揍你这家伙一下才行",
+      "pinyin": "WoDeHenHenZouNiZheJiaHuoYiXiaCaiXing",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x12",
+      "text": "不管发生什么都要在一起哦",
+      "pinyin": "BuGuanFaShengShenMeDouYaoZaiYiQiO",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x13",
+      "text": "选择之后就会出现新世界",
+      "pinyin": "XuanZeZhiHouJiuHuiChuXianXinShiJie",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x14",
+      "text": "雷诺前辈不在，就由我来补上！",
+      "pinyin": "LeiNuoQianBeiBuZaiJiuYouWoLaiBuShang",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x15",
+      "text": "有时是高超的魔晶石猎人！",
+      "pinyin": "YouShiShiGaoChaoDeMoJingShiLieRen",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x16",
+      "text": "有时是出手相助的美少女忍者！",
+      "pinyin": "YouShiShiChuShouXiangZhuDeMeiShaoNüRenZhe",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x17",
+      "text": "塔克斯的制服为什么是黑色的啊！",
+      "pinyin": "TaKeSiDeZhiFuWeiShenMeShiHeiSeDeA",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x18",
+      "text": "双人……是指那种双人吗？",
+      "pinyin": "ShuangRenShiZhiNaZhongShuangRenMa",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x19",
+      "text": "因为我是来自星殒峡谷的纳纳奇！",
+      "pinyin": "YinWeiWoShiLaiZiXingYunXiaGuDeNaNaQi",
+      "source": "homura"
+    },
+    {
+      "table": "0x004C4B4D",
+      "index": "0x1A",
+      "text": "我高薪聘请你，你可别让我失望",
+      "pinyin": "WoGaoXinPinQingNiNiKeBieRangWoShiWang",
+      "source": "homura"
+    }
+  ]
+}

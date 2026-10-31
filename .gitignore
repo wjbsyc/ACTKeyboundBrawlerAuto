@@ -1,0 +1,5 @@
+tests/
+SqpackWordExport/
+bin/
+obj/
+.vs/

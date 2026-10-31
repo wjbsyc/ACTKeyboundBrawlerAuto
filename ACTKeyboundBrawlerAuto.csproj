@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70B4FBD0-51D0-4D0E-97D5-3D2F4D9D6F35}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ACTKeyboundBrawlerAuto</RootNamespace>
+    <AssemblyName>ACTKeyboundBrawlerAuto</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Advanced Combat Tracker">
+      <HintPath>..\MajTataru\Thirdparty\ACT\Advanced Combat Tracker.exe</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="FFXIV_ACT_Plugin.Common">
+      <HintPath>..\MajTataru\Thirdparty\FFXIV_ACT_Plugin\SDK\FFXIV_ACT_Plugin.Common.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACTKeyboundBrawlerAutoPlugin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BrawlerLogger.cs" />
+    <Compile Include="BrawlerOpcodes.cs" />
+    <Compile Include="BrawlerParser.cs" />
+    <Compile Include="WordTable.cs" />
+    <Compile Include="UnicodeInputSender.cs" />
+    <Compile Include="UserKeyboardMonitor.cs" />
+    <Compile Include="TypingPauseController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="words.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="words.pinyin.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
