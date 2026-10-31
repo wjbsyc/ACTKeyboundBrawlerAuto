@@ -218,6 +218,11 @@ namespace ACTKeyboundBrawlerAuto
                 return Result.Fail("SendInput Enter failed: " + Marshal.GetLastWin32Error(), process, title);
             }
 
+            // Keep the next input cycle from starting immediately after Enter.
+            // The next cycle will still perform comma -> 200ms -> body as one
+            // continuous TypeText operation.
+            Thread.Sleep(100);
+
             stopwatch.Stop();
             return new Result
             {

@@ -10,7 +10,7 @@ using Advanced_Combat_Tracker;
 
 [assembly: AssemblyTitle("ACTKeyboundBrawlerAuto")]
 [assembly: AssemblyDescription("FFXIV 国服魔光键影词表收集与可选自动输入插件")]
-[assembly: AssemblyVersion("0.4.5.0")]
+[assembly: AssemblyVersion("0.4.5.1")]
 
 namespace ACTKeyboundBrawlerAuto
 {
@@ -1599,7 +1599,7 @@ namespace ACTKeyboundBrawlerAuto
             _logger.WriteLine("INFO", string.Format(
                 "自动输入启用: type-to-submit delay={0:F1}s~{1:F1}s",
                 _autoMinDelaySeconds, _autoMaxDelaySeconds));
-            _logger.WriteLine("INFO", "自动输入前缀: 键盘逗号 , + Unicode 正文，保留逗号，末尾 Enter 提交");
+            _logger.WriteLine("INFO", "自动输入顺序: 逗号 + 200ms + Unicode 正文 + Enter + 100ms 循环冷却");
             _logger.WriteLine("INFO", string.Format(
                 "Enter 输出限速: 任意两次 Enter 间隔 >= {0:F1}s",
                 _autoMinDelaySeconds));
