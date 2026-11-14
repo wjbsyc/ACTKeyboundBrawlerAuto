@@ -7,9 +7,9 @@ namespace ACTKeyboundBrawlerAuto
         public const int TARGET_ACTOR_OFFSET = 8;
         public const int OPCODE_OFFSET = 18;
 
-        public const ushort OP_EFFECT_RESULT = 0x00BD;
-        public const ushort OP_EVENT_PACKET = 0x01E6;
-        public const ushort OP_ACTOR_CAST = 0x0301;
+        public const ushort OP_EFFECT_RESULT = 0x0190;
+        public const ushort OP_EVENT_PACKET = 0x00A9;
+        public const ushort OP_ACTOR_CAST = 0x0160;
 
         public const uint WORD_ASSIGN_COMMAND = 0x10000008;
         public const uint WORD_DISAPPEAR_COMMAND = 0x1000000A;
@@ -25,7 +25,7 @@ namespace ACTKeyboundBrawlerAuto
         public const uint ACTION_WORD_MISS_2 = 0x0000C16F;
         public const uint ACTION_WORD_SELF_PUNISH = 0x0000C170;
 
-        // 0x0301 StartCast 中确认会带“禁止打字”图标的机制。
+        // 0x0160 StartCast 中确认会带“禁止打字”图标的机制。
         public const uint CAST_CURSE_GAZE = 0x0000C179;
         public const uint CAST_MOVEMENT_JAMMER = 0x0000C17C;
 
